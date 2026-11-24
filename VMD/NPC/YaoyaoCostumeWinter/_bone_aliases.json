@@ -1,0 +1,319 @@
+{
+  "NPC_Avatar_Loli_Pole_YaoyaoCostumeWinter": {
+    "+Upper_ed4dceb8": {
+      "name": "+UpperArmTwist L A01",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 L Clavicle/Bip001 L UpperArm/+UpperArmTwist L A01",
+      "binding_path_crc32": "ed4dceb8"
+    },
+    "+Upper_74449f02": {
+      "name": "+UpperArmTwist L A02",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 L Clavicle/Bip001 L UpperArm/+UpperArmTwist L A02",
+      "binding_path_crc32": "74449f02"
+    },
+    "+Upper_21e601ae": {
+      "name": "+UpperArmTwist R A01",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 R Clavicle/Bip001 R UpperArm/+UpperArmTwist R A01",
+      "binding_path_crc32": "21e601ae"
+    },
+    "+Upper_b8ef5014": {
+      "name": "+UpperArmTwist R A02",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 R Clavicle/Bip001 R UpperArm/+UpperArmTwist R A02",
+      "binding_path_crc32": "b8ef5014"
+    },
+    "Bone_B_04077fff": {
+      "name": "Bone_BagShapeA01_L",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bone_BagShapeA01_L",
+      "binding_path_crc32": "04077fff"
+    },
+    "Bone_B_fe08429c": {
+      "name": "Bone_BagShapeA01_R",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bone_BagShapeA01_R",
+      "binding_path_crc32": "fe08429c"
+    },
+    "Bone_B_0641c1a6": {
+      "name": "Bone_BagShapeA02_L",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bone_BagShapeA02_L",
+      "binding_path_crc32": "0641c1a6"
+    },
+    "Bone_B_fc4efcc5": {
+      "name": "Bone_BagShapeA02_R",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bone_BagShapeA02_R",
+      "binding_path_crc32": "fc4efcc5"
+    },
+    "Bone_B_620a0847": {
+      "name": "Bone_BasketDollBodyA01_L",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/+BagB R C01/Bone_BasketDollBodyA01_L",
+      "binding_path_crc32": "620a0847"
+    },
+    "Bone_B_31eb86ad": {
+      "name": "Bone_BasketDollEarA01_R",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/+BagB R C01/Bone_BasketDollBodyA01_L/Bone_BasketDollUpperBodyA01_L/Bone_BasketDollEarA01_R",
+      "binding_path_crc32": "31eb86ad"
+    },
+    "Bone_B_12891852": {
+      "name": "Bone_BasketDollEarA02_R",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/+BagB R C01/Bone_BasketDollBodyA01_L/Bone_BasketDollUpperBodyA01_L/Bone_BasketDollEarA01_R/Bone_BasketDollEarA02_R",
+      "binding_path_crc32": "12891852"
+    },
+    "Bone_B_9567d264": {
+      "name": "Bone_BasketDollUpperBodyA01_L",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/+BagB R C01/Bone_BasketDollBodyA01_L/Bone_BasketDollUpperBodyA01_L",
+      "binding_path_crc32": "9567d264"
+    },
+    "Bone_B_e18fc900": {
+      "name": "Bone_BasketGrassA01_R",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/+BagB R C01/Bone_BasketGrassA01_R",
+      "binding_path_crc32": "e18fc900"
+    },
+    "Bone_B_5c208eb3": {
+      "name": "Bone_BasketGrassB01_L",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/+BagB R C01/Bone_BasketGrassB01_L",
+      "binding_path_crc32": "5c208eb3"
+    },
+    "Bone_B_ba56666f": {
+      "name": "Bone_BowknotA01_L",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bone_BowknotWholeA01_M/Bone_BowknotA01_L",
+      "binding_path_crc32": "ba56666f"
+    },
+    "Bone_B_40595b0c": {
+      "name": "Bone_BowknotA01_R",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bone_BowknotWholeA01_M/Bone_BowknotA01_R",
+      "binding_path_crc32": "40595b0c"
+    },
+    "Bone_B_cd5d6c12": {
+      "name": "Bone_BowknotA02_L",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bone_BowknotWholeA01_M/Bone_BowknotA01_L/Bone_BowknotA02_L",
+      "binding_path_crc32": "cd5d6c12"
+    },
+    "Bone_B_b06d7ced": {
+      "name": "Bone_BowknotA02_R",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bone_BowknotWholeA01_M/Bone_BowknotA01_R/Bone_BowknotA02_R",
+      "binding_path_crc32": "b06d7ced"
+    },
+    "Bone_B_dc4f0c53": {
+      "name": "Bone_BowknotWholeA01_M",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bone_BowknotWholeA01_M",
+      "binding_path_crc32": "dc4f0c53"
+    },
+    "Bone_C_21a5e9b3": {
+      "name": "Bone_ClothCoverA01_L",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 L Clavicle/Bone_ClothCoverA01_L",
+      "binding_path_crc32": "21a5e9b3"
+    },
+    "Bone_C_64bb6dae": {
+      "name": "Bone_ClothCoverA01_R",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 R Clavicle/Bone_ClothCoverA01_R",
+      "binding_path_crc32": "64bb6dae"
+    },
+    "Bone_C_66059363": {
+      "name": "Bone_ClothCoverB01_L",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 L Clavicle/Bone_ClothCoverB01_L",
+      "binding_path_crc32": "66059363"
+    },
+    "Bone_C_231b177e": {
+      "name": "Bone_ClothCoverB01_R",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 R Clavicle/Bone_ClothCoverB01_R",
+      "binding_path_crc32": "231b177e"
+    },
+    "Bone_C_675cf03a": {
+      "name": "Bone_ClothCoverC01_L",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bone_ClothCoverC01_L",
+      "binding_path_crc32": "675cf03a"
+    },
+    "Bone_F_8ec96150": {
+      "name": "Bone_ForearmTwistA01_L",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bone_ForearmTwistA01_L",
+      "binding_path_crc32": "8ec96150"
+    },
+    "Bone_F_469c273c": {
+      "name": "Bone_ForearmTwistA01_R",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bone_ForearmTwistA01_R",
+      "binding_path_crc32": "469c273c"
+    },
+    "Bone_P_2b0637ba": {
+      "name": "Bone_PendantA01_L",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/+BagB R C01/Bone_PendantA01_L",
+      "binding_path_crc32": "2b0637ba"
+    },
+    "Bone_P_dccddbb2": {
+      "name": "Bone_PendantA02_L",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/+BagB R C01/Bone_PendantA01_L/Bone_PendantA02_L",
+      "binding_path_crc32": "dccddbb2"
+    },
+    "Bone_S_1b85d251": {
+      "name": "Bone_SleeveShape01_L",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bone_SleeveShape01_L",
+      "binding_path_crc32": "1b85d251"
+    },
+    "Bone_S_fe920264": {
+      "name": "Bone_SleeveShape01_R",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bone_SleeveShape01_R",
+      "binding_path_crc32": "fe920264"
+    },
+    "Bone_U_32097926": {
+      "name": "Bone_UmbrellaDecoA01_R",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/+BagB R C01/Bone_UmbrellaDecoA01_R",
+      "binding_path_crc32": "32097926"
+    },
+    "Bone_U_8b8ebb27": {
+      "name": "Bone_UmbrellaDecoA02_R",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/+BagB R C01/Bone_UmbrellaDecoA01_R/Bone_UmbrellaDecoA02_R",
+      "binding_path_crc32": "8b8ebb27"
+    },
+    "Bone_F_297a113e": {
+      "name": "Bone_FlowerBell01_L",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 Neck/Bip001 Head/Bone_HairFlowerA01_L/Bone_FlowerBell01_L",
+      "binding_path_crc32": "297a113e"
+    },
+    "Bone_F_4b5e3201": {
+      "name": "Bone_FlowerBell01_R",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 Neck/Bip001 Head/Bone_HairFlowerA01_R/Bone_FlowerBell01_R",
+      "binding_path_crc32": "4b5e3201"
+    },
+    "Bone_H_7d2e2159": {
+      "name": "Bone_HairBackA01_L",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 Neck/Bip001 Head/Bone_HairBackA01_L",
+      "binding_path_crc32": "7d2e2159"
+    },
+    "Bone_H_87211c3a": {
+      "name": "Bone_HairBackA01_R",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 Neck/Bip001 Head/Bone_HairBackA01_R",
+      "binding_path_crc32": "87211c3a"
+    },
+    "Bone_H_6e749fda": {
+      "name": "Bone_HairBackA02_L",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 Neck/Bip001 Head/Bone_HairBackA01_L/Bone_HairBackA02_L",
+      "binding_path_crc32": "6e749fda"
+    },
+    "Bone_H_6d4542fb": {
+      "name": "Bone_HairBackA02_R",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 Neck/Bip001 Head/Bone_HairBackA01_R/Bone_HairBackA02_R",
+      "binding_path_crc32": "6d4542fb"
+    },
+    "Bone_H_25861288": {
+      "name": "Bone_HairBackA03_L",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 Neck/Bip001 Head/Bone_HairBackA01_L/Bone_HairBackA02_L/Bone_HairBackA03_L",
+      "binding_path_crc32": "25861288"
+    },
+    "Bone_H_709d0883": {
+      "name": "Bone_HairBackA03_R",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 Neck/Bip001 Head/Bone_HairBackA01_R/Bone_HairBackA02_R/Bone_HairBackA03_R",
+      "binding_path_crc32": "709d0883"
+    },
+    "Bone_H_2956b4af": {
+      "name": "Bone_HairBackA04_L",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 Neck/Bip001 Head/Bone_HairBackA01_L/Bone_HairBackA02_L/Bone_HairBackA03_L/Bone_HairBackA04_L",
+      "binding_path_crc32": "2956b4af"
+    },
+    "Bone_H_55531362": {
+      "name": "Bone_HairBackA04_R",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 Neck/Bip001 Head/Bone_HairBackA01_R/Bone_HairBackA02_R/Bone_HairBackA03_R/Bone_HairBackA04_R",
+      "binding_path_crc32": "55531362"
+    },
+    "Bone_H_135bb081": {
+      "name": "Bone_HairFlowerA01_L",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 Neck/Bip001 Head/Bone_HairFlowerA01_L",
+      "binding_path_crc32": "135bb081"
+    },
+    "Bone_H_e9548de2": {
+      "name": "Bone_HairFlowerA01_R",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 Neck/Bip001 Head/Bone_HairFlowerA01_R",
+      "binding_path_crc32": "e9548de2"
+    },
+    "Bone_H_d78363be": {
+      "name": "Bone_HairFrontA01_R",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 Neck/Bip001 Head/Bone_HairFrontA01_R",
+      "binding_path_crc32": "d78363be"
+    },
+    "Bone_H_9023196e": {
+      "name": "Bone_HairFrontB01_R",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 Neck/Bip001 Head/Bone_HairFrontB01_R",
+      "binding_path_crc32": "9023196e"
+    },
+    "Bone_H_574c0dbd": {
+      "name": "Bone_HairFrontC01_L",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 Neck/Bip001 Head/Bone_HairFrontC01_L",
+      "binding_path_crc32": "574c0dbd"
+    },
+    "Bone_H_eadd3320": {
+      "name": "Bone_HairSideA01_L",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 Neck/Bip001 Head/Bone_HairSideA01_L",
+      "binding_path_crc32": "eadd3320"
+    },
+    "Bone_H_10d20e43": {
+      "name": "Bone_HairSideA01_R",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 Neck/Bip001 Head/Bone_HairSideA01_R",
+      "binding_path_crc32": "10d20e43"
+    },
+    "Bone_H_ad7d49f0": {
+      "name": "Bone_HairSideB01_L",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 Neck/Bip001 Head/Bone_HairSideB01_L",
+      "binding_path_crc32": "ad7d49f0"
+    },
+    "Bone_H_57727493": {
+      "name": "Bone_HairSideB01_R",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 Neck/Bip001 Head/Bone_HairSideB01_R",
+      "binding_path_crc32": "57727493"
+    },
+    "Bone_H_a142202b": {
+      "name": "Bone_HairSideB02_L",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 Neck/Bip001 Head/Bone_HairSideB01_L/Bone_HairSideB02_L",
+      "binding_path_crc32": "a142202b"
+    },
+    "Bone_H_a273fd0a": {
+      "name": "Bone_HairSideB02_R",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 Neck/Bip001 Head/Bone_HairSideB01_R/Bone_HairSideB02_R",
+      "binding_path_crc32": "a273fd0a"
+    },
+    "Bone_H_901d6040": {
+      "name": "Bone_HairSideC01_L",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 Neck/Bip001 Head/Bone_HairSideC01_L",
+      "binding_path_crc32": "901d6040"
+    },
+    "Bone_H_6a125d23": {
+      "name": "Bone_HairSideC01_R",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 Neck/Bip001 Head/Bone_HairSideC01_R",
+      "binding_path_crc32": "6a125d23"
+    },
+    "Bone_H_1d076cbc": {
+      "name": "Bone_HairSideC02_L",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 Neck/Bip001 Head/Bone_HairSideC01_L/Bone_HairSideC02_L",
+      "binding_path_crc32": "1d076cbc"
+    },
+    "Bone_H_1e36b19d": {
+      "name": "Bone_HairSideC02_R",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 Neck/Bip001 Head/Bone_HairSideC01_R/Bone_HairSideC02_R",
+      "binding_path_crc32": "1e36b19d"
+    },
+    "+Flycl_a1a4c658": {
+      "name": "+FlycloakRootB CB A01",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/+FlycloakRootB CB A01",
+      "binding_path_crc32": "a1a4c658"
+    },
+    "+Tooth_b04add80": {
+      "name": "+ToothBone D A01",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 Neck/Bip001 Head/+ToothBone D A01",
+      "binding_path_crc32": "b04add80"
+    },
+    "+Tooth_edca63b2": {
+      "name": "+ToothBone U A01",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 Neck/Bip001 Head/+ToothBone U A01",
+      "binding_path_crc32": "edca63b2"
+    },
+    "+Pelvi_b6004842": {
+      "name": "+PelvisTwist CF A01",
+      "path": "Bip001/+PelvisTwist CF A01",
+      "binding_path_crc32": "b6004842"
+    },
+    "Bone_P_ba4bef6c": {
+      "name": "Bone_PantsRotA01_L",
+      "path": "Bip001/Bip001 Pelvis/Bip001 L Thigh/Bone_PantsRotA01_L",
+      "binding_path_crc32": "ba4bef6c"
+    },
+    "Bone_P_80e1797a": {
+      "name": "Bone_PantsRotA01_R",
+      "path": "Bip001/Bip001 Pelvis/Bip001 R Thigh/Bone_PantsRotA01_R",
+      "binding_path_crc32": "80e1797a"
+    }
+  }
+}
