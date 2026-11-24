@@ -1,17 +1,17 @@
-# 原神 VMD 动作存档
+# Genshin VMD Archive
 
-这一批共收录 **25,960 个 VMD、373 个角色资源目录**，包括待机、舞蹈、拍照、展示、手势、坐姿和演奏。走路、跑步、攻击与战技已排除。
+25,960 motion files converted from the game’s Unity animations. This collection covers idles, dances, poses, photo motions, gestures, and daily activities. Locomotion and combat moves are excluded.
 
-- [玩家角色](VMD/Characters/)
-- [NPC](VMD/NPC/)
-- [怪物](VMD/Monsters/)
+- [Characters](VMD/Characters/)
+- [NPCs](VMD/NPC/)
+- [Monsters](VMD/Monsters/)
 
-打开角色目录后，按动作类型浏览：Idle（待机）、Dance（舞蹈）、Show_Pose_Photo（展示、姿势与拍照）、Gestures_Emotes（手势）、Activities（日常活动）。
+Open a character folder to browse Idle, Dance, Show_Pose_Photo, Gestures_Emotes, or Activities. Shared rig motions are in Shared.
 
-VMD 从游戏的 Unity 动画转换，保留原游戏骨名。使用其他骨架的 PMX 可能需要重定向。角色目录中的 _bone_aliases.json（如果有）记录了因 VMD 文件格式长度限制而使用的骨名别名。
+VMDs use the original game bone names. A PMX with different names, rest poses, or axes may need retargeting. Where present, _bone_aliases.json maps shortened bone names back to their originals.
 
-### 舞蹈
+### Dance folders
 
-- [Monster_Eremite_Male_Standard_Glaive — 1 条](VMD/Monsters/Monster_Eremite_Male_Standard_Glaive/Dance/)
-- [NPC_Avatar_Boy_Sword_PlayerBoy — 8 条](VMD/NPC/NPC_Avatar_Boy_Sword_PlayerBoy/Dance/)
-- [NPC_Avatar_Girl_Sword_PlayerGirl — 8 条](VMD/NPC/NPC_Avatar_Girl_Sword_PlayerGirl/Dance/)
+- [Eremite_Glaive — 1 motions](VMD/Monsters/Eremite_Glaive/Dance/)
+- [Aether — 8 motions](VMD/NPC/Aether/Dance/)
+- [Lumine — 8 motions](VMD/NPC/Lumine/Dance/)
