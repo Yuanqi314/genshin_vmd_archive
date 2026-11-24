@@ -1,0 +1,144 @@
+{
+  "NPC_Avatar_Lady_Bow_Chasca": {
+    "+Forea_b08a7595": {
+      "name": "+ForearmTwistS L A01",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/+ForearmTwistS L A01",
+      "binding_path_crc32": "b08a7595"
+    },
+    "+Forea_7042b120": {
+      "name": "+ForearmTwistS R A01",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/+ForearmTwistS R A01",
+      "binding_path_crc32": "7042b120"
+    },
+    "+Pelvi_b6004842": {
+      "name": "+PelvisTwist CF A01",
+      "path": "Bip001/+PelvisTwist CF A01",
+      "binding_path_crc32": "b6004842"
+    },
+    "+Shoul_aaccaf9b": {
+      "name": "+ShoulderS L A01",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 L Clavicle/+ShoulderS L A01",
+      "binding_path_crc32": "aaccaf9b"
+    },
+    "+Shoul_55b3a660": {
+      "name": "+ShoulderS R A01",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 R Clavicle/+ShoulderS R A01",
+      "binding_path_crc32": "55b3a660"
+    },
+    "+Tooth_b04add80": {
+      "name": "+ToothBone D A01",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 Neck/Bip001 Head/+ToothBone D A01",
+      "binding_path_crc32": "b04add80"
+    },
+    "+Tooth_edca63b2": {
+      "name": "+ToothBone U A01",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 Neck/Bip001 Head/+ToothBone U A01",
+      "binding_path_crc32": "edca63b2"
+    },
+    "+Visio_9a84276e": {
+      "name": "+VisionPelvisS L A01",
+      "path": "Bip001/+PelvisTwist CF A01/+VisionPelvisS L A01",
+      "binding_path_crc32": "9a84276e"
+    },
+    "+Upper_ed4dceb8": {
+      "name": "+UpperArmTwist L A01",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 L Clavicle/Bip001 L UpperArm/+UpperArmTwist L A01",
+      "binding_path_crc32": "ed4dceb8"
+    },
+    "+Upper_74449f02": {
+      "name": "+UpperArmTwist L A02",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 L Clavicle/Bip001 L UpperArm/+UpperArmTwist L A02",
+      "binding_path_crc32": "74449f02"
+    },
+    "+Upper_21e601ae": {
+      "name": "+UpperArmTwist R A01",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 R Clavicle/Bip001 R UpperArm/+UpperArmTwist R A01",
+      "binding_path_crc32": "21e601ae"
+    },
+    "+Upper_b8ef5014": {
+      "name": "+UpperArmTwist R A02",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 R Clavicle/Bip001 R UpperArm/+UpperArmTwist R A02",
+      "binding_path_crc32": "b8ef5014"
+    },
+    "Bip001_a8df2a1f": {
+      "name": "Bip001 L Finger0",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger0",
+      "binding_path_crc32": "a8df2a1f"
+    },
+    "Bip001_ee05994f": {
+      "name": "Bip001 L Finger01",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger0/Bip001 L Finger01",
+      "binding_path_crc32": "ee05994f"
+    },
+    "Bip001_bbd0ef55": {
+      "name": "Bip001 L Finger02",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger0/Bip001 L Finger01/Bip001 L Finger02",
+      "binding_path_crc32": "bbd0ef55"
+    },
+    "Bip001_616752e6": {
+      "name": "Bip001 R Finger0",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger0",
+      "binding_path_crc32": "616752e6"
+    },
+    "Bip001_e63e682c": {
+      "name": "Bip001 R Finger01",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger0/Bip001 R Finger01",
+      "binding_path_crc32": "e63e682c"
+    },
+    "Bip001_b22e273d": {
+      "name": "Bip001 R Finger02",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger0/Bip001 R Finger01/Bip001 R Finger02",
+      "binding_path_crc32": "b22e273d"
+    },
+    "Bone_A_c913492d": {
+      "name": "Bone_Aircraft01_M",
+      "path": "Root/Bone_Root/Bone_Aircraft01_M",
+      "binding_path_crc32": "c913492d"
+    },
+    "Bone_B_196e43c1": {
+      "name": "Bone_BarrelD01_M",
+      "path": "Root/Bone_Root/Bone_Aircraft01_M/Bone_BarrelD01_M",
+      "binding_path_crc32": "196e43c1"
+    },
+    "Bone_B_44eefdf3": {
+      "name": "Bone_BarrelU01_M",
+      "path": "Root/Bone_Root/Bone_Aircraft01_M/Bone_BarrelU01_M",
+      "binding_path_crc32": "44eefdf3"
+    },
+    "Bone_D_8a47d57c": {
+      "name": "Bone_Drapery01_M",
+      "path": "Root/Bone_Root/Bone_Aircraft01_M/Bone_Drapery01_M",
+      "binding_path_crc32": "8a47d57c"
+    },
+    "Bone_H_64f8c0a5": {
+      "name": "Bone_Hikigane01_M",
+      "path": "Root/Bone_Root/Bone_Aircraft01_M/Bone_Hikigane01_M",
+      "binding_path_crc32": "64f8c0a5"
+    },
+    "Bone_H_66be7efc": {
+      "name": "Bone_Hikigane02_M",
+      "path": "Root/Bone_Root/Bone_Aircraft01_M/Bone_Hikigane02_M",
+      "binding_path_crc32": "66be7efc"
+    },
+    "Bone_M_332d7efb": {
+      "name": "Bone_Magazine01_M",
+      "path": "Root/Bone_Root/Bone_Aircraft01_M/Bone_Magazine01_M",
+      "binding_path_crc32": "332d7efb"
+    },
+    "Bone_R_1eda533a": {
+      "name": "Bone_Rebound01_M",
+      "path": "Root/Bone_Root/Bone_Aircraft01_M/Bone_Rebound01_M",
+      "binding_path_crc32": "1eda533a"
+    },
+    "Bone_T_178b9986": {
+      "name": "Bone_Trigger01_M",
+      "path": "Root/Bone_Root/Bone_Aircraft01_M/Bone_Trigger01_M",
+      "binding_path_crc32": "178b9986"
+    },
+    "+Flycl_a1a4c658": {
+      "name": "+FlycloakRootB CB A01",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/+FlycloakRootB CB A01",
+      "binding_path_crc32": "a1a4c658"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "NPC_Others_CakeCoreBot": {
+    "Bone_D_48574901": {
+      "name": "Bone_Danjuan01_L",
+      "path": "Bone_Root/Bone_ScaleRoot01_M/Bone_Danjuan01_L",
+      "binding_path_crc32": "48574901"
+    },
+    "Bone_D_4a11f758": {
+      "name": "Bone_Danjuan02_L",
+      "path": "Bone_Root/Bone_ScaleRoot01_M/Bone_Danjuan02_L",
+      "binding_path_crc32": "4a11f758"
+    },
+    "Bone_D_4bd39d6f": {
+      "name": "Bone_Danjuan03_L",
+      "path": "Bone_Root/Bone_ScaleRoot01_M/Bone_Danjuan03_L",
+      "binding_path_crc32": "4bd39d6f"
+    },
+    "Bone_S_59986779": {
+      "name": "Bone_ScaleRoot01_M",
+      "path": "Bone_Root/Bone_ScaleRoot01_M",
+      "binding_path_crc32": "59986779"
+    }
+  }
+}
