@@ -1,0 +1,99 @@
+{
+  "NPC_Others_Kukulkan": {
+    "Bone_B_c88cc912": {
+      "name": "Bone_BackDeco01_M",
+      "path": "Bone_Root/Bone_Pelvis01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_BackDeco01_M",
+      "binding_path_crc32": "c88cc912"
+    },
+    "Bone_B_178030c9": {
+      "name": "Bone_BackDecoPart01_L",
+      "path": "Bone_Root/Bone_Pelvis01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_BackDeco01_M/Bone_BackDecoPart01_L",
+      "binding_path_crc32": "178030c9"
+    },
+    "Bone_B_ed8f0daa": {
+      "name": "Bone_BackDecoPart01_R",
+      "path": "Bone_Root/Bone_Pelvis01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_BackDeco01_M/Bone_BackDecoPart01_R",
+      "binding_path_crc32": "ed8f0daa"
+    },
+    "Bone_C_0c85653e": {
+      "name": "Bone_Clavicle01_L",
+      "path": "Bone_Root/Bone_Pelvis01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Clavicle01_L",
+      "binding_path_crc32": "0c85653e"
+    },
+    "Bone_C_f68a585d": {
+      "name": "Bone_Clavicle01_R",
+      "path": "Bone_Root/Bone_Pelvis01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Clavicle01_R",
+      "binding_path_crc32": "f68a585d"
+    },
+    "Bone_L_52e10c9a": {
+      "name": "Bone_LowerArm01_L",
+      "path": "Bone_Root/Bone_Pelvis01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Clavicle01_L/Bone_UpperArm01_L/Bone_LowerArm01_L",
+      "binding_path_crc32": "52e10c9a"
+    },
+    "Bone_L_25899366": {
+      "name": "Bone_LowerArm01_R",
+      "path": "Bone_Root/Bone_Pelvis01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Clavicle01_R/Bone_UpperArm01_R/Bone_LowerArm01_R",
+      "binding_path_crc32": "25899366"
+    },
+    "Bone_T_386368c0": {
+      "name": "Bone_TailLower01_M",
+      "path": "Bone_Root/Bone_TailLower01_M",
+      "binding_path_crc32": "386368c0"
+    },
+    "Bone_T_92ba286d": {
+      "name": "Bone_TailLower02_M",
+      "path": "Bone_Root/Bone_TailLower01_M/Bone_TailLower02_M",
+      "binding_path_crc32": "92ba286d"
+    },
+    "Bone_T_8c179358": {
+      "name": "Bone_TailLower03_M",
+      "path": "Bone_Root/Bone_TailLower01_M/Bone_TailLower02_M/Bone_TailLower03_M",
+      "binding_path_crc32": "8c179358"
+    },
+    "Bone_T_e279a68b": {
+      "name": "Bone_TailLower04_M",
+      "path": "Bone_Root/Bone_TailLower01_M/Bone_TailLower02_M/Bone_TailLower03_M/Bone_TailLower04_M",
+      "binding_path_crc32": "e279a68b"
+    },
+    "Bone_T_38ab141c": {
+      "name": "Bone_TailLower05_M",
+      "path": "Bone_Root/Bone_TailLower01_M/Bone_TailLower02_M/Bone_TailLower03_M/Bone_TailLower04_M/Bone_TailLower05_M",
+      "binding_path_crc32": "38ab141c"
+    },
+    "Bone_T_583c81e3": {
+      "name": "Bone_TailUpper01_M",
+      "path": "Bone_Root/Bone_TailUpper01_M",
+      "binding_path_crc32": "583c81e3"
+    },
+    "Bone_T_5a7a3fba": {
+      "name": "Bone_TailUpper02_M",
+      "path": "Bone_Root/Bone_TailUpper02_M",
+      "binding_path_crc32": "5a7a3fba"
+    },
+    "Bone_T_5bb8558d": {
+      "name": "Bone_TailUpper03_M",
+      "path": "Bone_Root/Bone_TailUpper03_M",
+      "binding_path_crc32": "5bb8558d"
+    },
+    "Bone_U_f325b484": {
+      "name": "Bone_UpperArm01_L",
+      "path": "Bone_Root/Bone_Pelvis01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Clavicle01_L/Bone_UpperArm01_L",
+      "binding_path_crc32": "f325b484"
+    },
+    "Bone_U_8e15a47b": {
+      "name": "Bone_UpperArm01_R",
+      "path": "Bone_Root/Bone_Pelvis01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Clavicle01_R/Bone_UpperArm01_R",
+      "binding_path_crc32": "8e15a47b"
+    },
+    "Bone_U_e2306c69": {
+      "name": "Bone_UpperEyelid01_L",
+      "path": "Bone_Root/Bone_Pelvis01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Neck01_M/Bone_Head01_M/Bone_UpperEyelid01_L",
+      "binding_path_crc32": "e2306c69"
+    },
+    "Bone_U_183f510a": {
+      "name": "Bone_UpperEyelid01_R",
+      "path": "Bone_Root/Bone_Pelvis01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Neck01_M/Bone_Head01_M/Bone_UpperEyelid01_R",
+      "binding_path_crc32": "183f510a"
+    }
+  }
+}
