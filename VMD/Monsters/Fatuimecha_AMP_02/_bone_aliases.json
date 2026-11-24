@@ -1,0 +1,24 @@
+{
+  "Monster_Fatuimecha_AMP_02": {
+    "Bone_C_6529f5f1": {
+      "name": "Bone_CannonArmor01_L",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Body01_M/Bone_Arm01_L/Bone_Arm02_L/Bone_Hand01_L/Bone_ConnonBody01_L/Bone_CannonArmor01_L",
+      "binding_path_crc32": "6529f5f1"
+    },
+    "Bone_C_676f4ba8": {
+      "name": "Bone_CannonArmor02_L",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Body01_M/Bone_Arm01_L/Bone_Arm02_L/Bone_Hand01_L/Bone_ConnonBody01_L/Bone_CannonArmor02_L",
+      "binding_path_crc32": "676f4ba8"
+    },
+    "Bone_C_4dbd3694": {
+      "name": "Bone_ConnonBody01_L",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Body01_M/Bone_Arm01_L/Bone_Arm02_L/Bone_Hand01_L/Bone_ConnonBody01_L",
+      "binding_path_crc32": "4dbd3694"
+    },
+    "Bone_S_2bd84bae": {
+      "name": "Bone_SawBody01_R",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Body01_M/Bone_Arm01_R/Bone_Arm02_R/Bone_Hand01_R/Bone_SawBody01_R",
+      "binding_path_crc32": "2bd84bae"
+    }
+  }
+}

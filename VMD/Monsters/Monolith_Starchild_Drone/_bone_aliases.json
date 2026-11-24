@@ -1,0 +1,69 @@
+{
+  "Monster_Monolith_Starchild_Drone": {
+    "Bone_C_6d32abab": {
+      "name": "Bone_CannonA01_R",
+      "path": "Bone_CannonM01_R/Bone_CannonA01_R",
+      "binding_path_crc32": "6d32abab"
+    },
+    "Bone_C_6f7415f2": {
+      "name": "Bone_CannonA02_R",
+      "path": "Bone_CannonM01_R/Bone_CannonA02_R",
+      "binding_path_crc32": "6f7415f2"
+    },
+    "Bone_C_6eb67fc5": {
+      "name": "Bone_CannonA03_R",
+      "path": "Bone_CannonM01_R/Bone_CannonA03_R",
+      "binding_path_crc32": "6eb67fc5"
+    },
+    "Bone_C_6bf96940": {
+      "name": "Bone_CannonA04_R",
+      "path": "Bone_CannonM01_R/Bone_CannonA04_R",
+      "binding_path_crc32": "6bf96940"
+    },
+    "Bone_C_2a92d17b": {
+      "name": "Bone_CannonB01_R",
+      "path": "Bone_CannonM01_R/Bone_CannonB01_R",
+      "binding_path_crc32": "2a92d17b"
+    },
+    "Bone_C_28d46f22": {
+      "name": "Bone_CannonB02_R",
+      "path": "Bone_CannonM01_R/Bone_CannonB02_R",
+      "binding_path_crc32": "28d46f22"
+    },
+    "Bone_C_29160515": {
+      "name": "Bone_CannonB03_R",
+      "path": "Bone_CannonM01_R/Bone_CannonB03_R",
+      "binding_path_crc32": "29160515"
+    },
+    "Bone_C_2c591390": {
+      "name": "Bone_CannonB04_R",
+      "path": "Bone_CannonM01_R/Bone_CannonB04_R",
+      "binding_path_crc32": "2c591390"
+    },
+    "Bone_C_17f2f8cb": {
+      "name": "Bone_CannonC01_R",
+      "path": "Bone_CannonM01_R/Bone_CannonC01_R",
+      "binding_path_crc32": "17f2f8cb"
+    },
+    "Bone_C_15b44692": {
+      "name": "Bone_CannonC02_R",
+      "path": "Bone_CannonM01_R/Bone_CannonC02_R",
+      "binding_path_crc32": "15b44692"
+    },
+    "Bone_C_14762ca5": {
+      "name": "Bone_CannonC03_R",
+      "path": "Bone_CannonM01_R/Bone_CannonC03_R",
+      "binding_path_crc32": "14762ca5"
+    },
+    "Bone_C_11393a20": {
+      "name": "Bone_CannonC04_R",
+      "path": "Bone_CannonM01_R/Bone_CannonC04_R",
+      "binding_path_crc32": "11393a20"
+    },
+    "Bone_C_eb4e58af": {
+      "name": "Bone_CannonM01_R",
+      "path": "Bone_CannonM01_R",
+      "binding_path_crc32": "eb4e58af"
+    }
+  }
+}

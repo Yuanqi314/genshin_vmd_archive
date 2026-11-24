@@ -1,0 +1,284 @@
+{
+  "Monster_Apparatus_Enigma_BionicNettler": {
+    "Bone_B_facac6e9": {
+      "name": "Bone_BrightTriangle01",
+      "path": "Bone_Root/Bone_BrightTriangle01",
+      "binding_path_crc32": "facac6e9"
+    },
+    "Bone_B_63c39753": {
+      "name": "Bone_BrightTriangle02",
+      "path": "Bone_Root/Bone_BrightTriangle02",
+      "binding_path_crc32": "63c39753"
+    },
+    "Bone_B_14c4a7c5": {
+      "name": "Bone_BrightTriangle03",
+      "path": "Bone_Root/Bone_BrightTriangle03",
+      "binding_path_crc32": "14c4a7c5"
+    },
+    "Bone_B_8aa03266": {
+      "name": "Bone_BrightTriangle04",
+      "path": "Bone_Root/Bone_BrightTriangle04",
+      "binding_path_crc32": "8aa03266"
+    },
+    "Bone_B_fda702f0": {
+      "name": "Bone_BrightTriangle05",
+      "path": "Bone_Root/Bone_BrightTriangle05",
+      "binding_path_crc32": "fda702f0"
+    },
+    "Bone_B_64ae534a": {
+      "name": "Bone_BrightTriangle06",
+      "path": "Bone_Root/Bone_BrightTriangle06",
+      "binding_path_crc32": "64ae534a"
+    },
+    "Bone_B_13a963dc": {
+      "name": "Bone_BrightTriangle07",
+      "path": "Bone_Root/Bone_BrightTriangle07",
+      "binding_path_crc32": "13a963dc"
+    },
+    "Bone_B_83167e4d": {
+      "name": "Bone_BrightTriangle08",
+      "path": "Bone_Root/Bone_BrightTriangle08",
+      "binding_path_crc32": "83167e4d"
+    },
+    "Bone_B_f4114edb": {
+      "name": "Bone_BrightTriangle09",
+      "path": "Bone_Root/Bone_BrightTriangle09",
+      "binding_path_crc32": "f4114edb"
+    },
+    "Bone_B_94d6c73e": {
+      "name": "Bone_BrightTriangle10",
+      "path": "Bone_Root/Bone_BrightTriangle10",
+      "binding_path_crc32": "94d6c73e"
+    },
+    "Bone_B_e3d1f7a8": {
+      "name": "Bone_BrightTriangle11",
+      "path": "Bone_Root/Bone_BrightTriangle11",
+      "binding_path_crc32": "e3d1f7a8"
+    },
+    "Bone_B_7ad8a612": {
+      "name": "Bone_BrightTriangle12",
+      "path": "Bone_Root/Bone_BrightTriangle12",
+      "binding_path_crc32": "7ad8a612"
+    },
+    "Bone_B_0ddf9684": {
+      "name": "Bone_BrightTriangle13",
+      "path": "Bone_Root/Bone_BrightTriangle13",
+      "binding_path_crc32": "0ddf9684"
+    },
+    "Bone_B_93bb0327": {
+      "name": "Bone_BrightTriangle14",
+      "path": "Bone_Root/Bone_BrightTriangle14",
+      "binding_path_crc32": "93bb0327"
+    },
+    "Bone_B_e4bc33b1": {
+      "name": "Bone_BrightTriangle15",
+      "path": "Bone_Root/Bone_BrightTriangle15",
+      "binding_path_crc32": "e4bc33b1"
+    },
+    "Bone_B_7db5620b": {
+      "name": "Bone_BrightTriangle16",
+      "path": "Bone_Root/Bone_BrightTriangle16",
+      "binding_path_crc32": "7db5620b"
+    },
+    "Bone_B_0ab2529d": {
+      "name": "Bone_BrightTriangle17",
+      "path": "Bone_Root/Bone_BrightTriangle17",
+      "binding_path_crc32": "0ab2529d"
+    },
+    "Bone_B_9a0d4f0c": {
+      "name": "Bone_BrightTriangle18",
+      "path": "Bone_Root/Bone_BrightTriangle18",
+      "binding_path_crc32": "9a0d4f0c"
+    },
+    "Bone_B_ed0a7f9a": {
+      "name": "Bone_BrightTriangle19",
+      "path": "Bone_Root/Bone_BrightTriangle19",
+      "binding_path_crc32": "ed0a7f9a"
+    },
+    "Bone_B_bffb94fd": {
+      "name": "Bone_BrightTriangle20",
+      "path": "Bone_Root/Bone_BrightTriangle20",
+      "binding_path_crc32": "bffb94fd"
+    },
+    "Bone_B_c8fca46b": {
+      "name": "Bone_BrightTriangle21",
+      "path": "Bone_Root/Bone_BrightTriangle21",
+      "binding_path_crc32": "c8fca46b"
+    },
+    "Bone_B_51f5f5d1": {
+      "name": "Bone_BrightTriangle22",
+      "path": "Bone_Root/Bone_BrightTriangle22",
+      "binding_path_crc32": "51f5f5d1"
+    },
+    "Bone_B_26f2c547": {
+      "name": "Bone_BrightTriangle23",
+      "path": "Bone_Root/Bone_BrightTriangle23",
+      "binding_path_crc32": "26f2c547"
+    },
+    "Bone_B_b89650e4": {
+      "name": "Bone_BrightTriangle24",
+      "path": "Bone_Root/Bone_BrightTriangle24",
+      "binding_path_crc32": "b89650e4"
+    },
+    "Bone_B_cf916072": {
+      "name": "Bone_BrightTriangle25",
+      "path": "Bone_Root/Bone_BrightTriangle25",
+      "binding_path_crc32": "cf916072"
+    },
+    "Bone_B_569831c8": {
+      "name": "Bone_BrightTriangle26",
+      "path": "Bone_Root/Bone_BrightTriangle26",
+      "binding_path_crc32": "569831c8"
+    },
+    "Bone_B_219f015e": {
+      "name": "Bone_BrightTriangle27",
+      "path": "Bone_Root/Bone_BrightTriangle27",
+      "binding_path_crc32": "219f015e"
+    },
+    "Bone_B_b1201ccf": {
+      "name": "Bone_BrightTriangle28",
+      "path": "Bone_Root/Bone_BrightTriangle28",
+      "binding_path_crc32": "b1201ccf"
+    },
+    "Bone_D_aa262cfb": {
+      "name": "Bone_DarkTriangle01",
+      "path": "Bone_Root/Bone_DarkTriangle01",
+      "binding_path_crc32": "aa262cfb"
+    },
+    "Bone_D_332f7d41": {
+      "name": "Bone_DarkTriangle02",
+      "path": "Bone_Root/Bone_DarkTriangle02",
+      "binding_path_crc32": "332f7d41"
+    },
+    "Bone_D_44284dd7": {
+      "name": "Bone_DarkTriangle03",
+      "path": "Bone_Root/Bone_DarkTriangle03",
+      "binding_path_crc32": "44284dd7"
+    },
+    "Bone_D_da4cd874": {
+      "name": "Bone_DarkTriangle04",
+      "path": "Bone_Root/Bone_DarkTriangle04",
+      "binding_path_crc32": "da4cd874"
+    },
+    "Bone_D_ad4be8e2": {
+      "name": "Bone_DarkTriangle05",
+      "path": "Bone_Root/Bone_DarkTriangle05",
+      "binding_path_crc32": "ad4be8e2"
+    },
+    "Bone_D_3442b958": {
+      "name": "Bone_DarkTriangle06",
+      "path": "Bone_Root/Bone_DarkTriangle06",
+      "binding_path_crc32": "3442b958"
+    },
+    "Bone_D_434589ce": {
+      "name": "Bone_DarkTriangle07",
+      "path": "Bone_Root/Bone_DarkTriangle07",
+      "binding_path_crc32": "434589ce"
+    },
+    "Bone_D_d3fa945f": {
+      "name": "Bone_DarkTriangle08",
+      "path": "Bone_Root/Bone_DarkTriangle08",
+      "binding_path_crc32": "d3fa945f"
+    },
+    "Bone_D_a4fda4c9": {
+      "name": "Bone_DarkTriangle09",
+      "path": "Bone_Root/Bone_DarkTriangle09",
+      "binding_path_crc32": "a4fda4c9"
+    },
+    "Bone_D_c43a2d2c": {
+      "name": "Bone_DarkTriangle10",
+      "path": "Bone_Root/Bone_DarkTriangle10",
+      "binding_path_crc32": "c43a2d2c"
+    },
+    "Bone_D_b33d1dba": {
+      "name": "Bone_DarkTriangle11",
+      "path": "Bone_Root/Bone_DarkTriangle11",
+      "binding_path_crc32": "b33d1dba"
+    },
+    "Bone_D_2a344c00": {
+      "name": "Bone_DarkTriangle12",
+      "path": "Bone_Root/Bone_DarkTriangle12",
+      "binding_path_crc32": "2a344c00"
+    },
+    "Bone_D_5d337c96": {
+      "name": "Bone_DarkTriangle13",
+      "path": "Bone_Root/Bone_DarkTriangle13",
+      "binding_path_crc32": "5d337c96"
+    },
+    "Bone_D_c357e935": {
+      "name": "Bone_DarkTriangle14",
+      "path": "Bone_Root/Bone_DarkTriangle14",
+      "binding_path_crc32": "c357e935"
+    },
+    "Bone_D_b450d9a3": {
+      "name": "Bone_DarkTriangle15",
+      "path": "Bone_Root/Bone_DarkTriangle15",
+      "binding_path_crc32": "b450d9a3"
+    },
+    "Bone_D_2d598819": {
+      "name": "Bone_DarkTriangle16",
+      "path": "Bone_Root/Bone_DarkTriangle16",
+      "binding_path_crc32": "2d598819"
+    },
+    "Bone_D_5a5eb88f": {
+      "name": "Bone_DarkTriangle17",
+      "path": "Bone_Root/Bone_DarkTriangle17",
+      "binding_path_crc32": "5a5eb88f"
+    },
+    "Bone_D_cae1a51e": {
+      "name": "Bone_DarkTriangle18",
+      "path": "Bone_Root/Bone_DarkTriangle18",
+      "binding_path_crc32": "cae1a51e"
+    },
+    "Bone_D_bde69588": {
+      "name": "Bone_DarkTriangle19",
+      "path": "Bone_Root/Bone_DarkTriangle19",
+      "binding_path_crc32": "bde69588"
+    },
+    "Bone_D_ef177eef": {
+      "name": "Bone_DarkTriangle20",
+      "path": "Bone_Root/Bone_DarkTriangle20",
+      "binding_path_crc32": "ef177eef"
+    },
+    "Bone_D_98104e79": {
+      "name": "Bone_DarkTriangle21",
+      "path": "Bone_Root/Bone_DarkTriangle21",
+      "binding_path_crc32": "98104e79"
+    },
+    "Bone_D_01191fc3": {
+      "name": "Bone_DarkTriangle22",
+      "path": "Bone_Root/Bone_DarkTriangle22",
+      "binding_path_crc32": "01191fc3"
+    },
+    "Bone_D_761e2f55": {
+      "name": "Bone_DarkTriangle23",
+      "path": "Bone_Root/Bone_DarkTriangle23",
+      "binding_path_crc32": "761e2f55"
+    },
+    "Bone_D_e87abaf6": {
+      "name": "Bone_DarkTriangle24",
+      "path": "Bone_Root/Bone_DarkTriangle24",
+      "binding_path_crc32": "e87abaf6"
+    },
+    "Bone_L_0d16d463": {
+      "name": "Bone_LargeCore01",
+      "path": "Bone_Root/Bone_LargeCore01",
+      "binding_path_crc32": "0d16d463"
+    },
+    "Bone_L_906415f8": {
+      "name": "Bone_LittleCore01",
+      "path": "Bone_Root/Bone_LittleCore01",
+      "binding_path_crc32": "906415f8"
+    },
+    "Bone_L_096d4442": {
+      "name": "Bone_LittleCore02",
+      "path": "Bone_Root/Bone_LittleCore02",
+      "binding_path_crc32": "096d4442"
+    },
+    "Bone_L_7e6a74d4": {
+      "name": "Bone_LittleCore03",
+      "path": "Bone_Root/Bone_LittleCore03",
+      "binding_path_crc32": "7e6a74d4"
+    }
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "Monster_Monolith_Starchild": {
+    "Bone_C_5029c1d5": {
+      "name": "Bone_CannonA01_L",
+      "path": "Bone_Root/Bone_CannonM01_L/Bone_CannonA01_L",
+      "binding_path_crc32": "5029c1d5"
+    },
+    "Bone_C_9da8b227": {
+      "name": "Bone_CannonA01_R",
+      "path": "Bone_Root/Bone_CannonM01_R/Bone_CannonA01_R",
+      "binding_path_crc32": "9da8b227"
+    },
+    "Bone_C_526f7f8c": {
+      "name": "Bone_CannonA02_L",
+      "path": "Bone_Root/Bone_CannonM01_L/Bone_CannonA02_L",
+      "binding_path_crc32": "526f7f8c"
+    },
+    "Bone_C_9fee0c7e": {
+      "name": "Bone_CannonA02_R",
+      "path": "Bone_Root/Bone_CannonM01_R/Bone_CannonA02_R",
+      "binding_path_crc32": "9fee0c7e"
+    },
+    "Bone_C_53ad15bb": {
+      "name": "Bone_CannonA03_L",
+      "path": "Bone_Root/Bone_CannonM01_L/Bone_CannonA03_L",
+      "binding_path_crc32": "53ad15bb"
+    },
+    "Bone_C_9e2c6649": {
+      "name": "Bone_CannonA03_R",
+      "path": "Bone_Root/Bone_CannonM01_R/Bone_CannonA03_R",
+      "binding_path_crc32": "9e2c6649"
+    },
+    "Bone_C_56e2033e": {
+      "name": "Bone_CannonA04_L",
+      "path": "Bone_Root/Bone_CannonM01_L/Bone_CannonA04_L",
+      "binding_path_crc32": "56e2033e"
+    },
+    "Bone_C_9b6370cc": {
+      "name": "Bone_CannonA04_R",
+      "path": "Bone_Root/Bone_CannonM01_R/Bone_CannonA04_R",
+      "binding_path_crc32": "9b6370cc"
+    },
+    "Bone_C_1789bb05": {
+      "name": "Bone_CannonB01_L",
+      "path": "Bone_Root/Bone_CannonM01_L/Bone_CannonB01_L",
+      "binding_path_crc32": "1789bb05"
+    },
+    "Bone_C_da08c8f7": {
+      "name": "Bone_CannonB01_R",
+      "path": "Bone_Root/Bone_CannonM01_R/Bone_CannonB01_R",
+      "binding_path_crc32": "da08c8f7"
+    },
+    "Bone_C_15cf055c": {
+      "name": "Bone_CannonB02_L",
+      "path": "Bone_Root/Bone_CannonM01_L/Bone_CannonB02_L",
+      "binding_path_crc32": "15cf055c"
+    },
+    "Bone_C_d84e76ae": {
+      "name": "Bone_CannonB02_R",
+      "path": "Bone_Root/Bone_CannonM01_R/Bone_CannonB02_R",
+      "binding_path_crc32": "d84e76ae"
+    },
+    "Bone_C_140d6f6b": {
+      "name": "Bone_CannonB03_L",
+      "path": "Bone_Root/Bone_CannonM01_L/Bone_CannonB03_L",
+      "binding_path_crc32": "140d6f6b"
+    },
+    "Bone_C_d98c1c99": {
+      "name": "Bone_CannonB03_R",
+      "path": "Bone_Root/Bone_CannonM01_R/Bone_CannonB03_R",
+      "binding_path_crc32": "d98c1c99"
+    },
+    "Bone_C_114279ee": {
+      "name": "Bone_CannonB04_L",
+      "path": "Bone_Root/Bone_CannonM01_L/Bone_CannonB04_L",
+      "binding_path_crc32": "114279ee"
+    },
+    "Bone_C_dcc30a1c": {
+      "name": "Bone_CannonB04_R",
+      "path": "Bone_Root/Bone_CannonM01_R/Bone_CannonB04_R",
+      "binding_path_crc32": "dcc30a1c"
+    },
+    "Bone_C_2ae992b5": {
+      "name": "Bone_CannonC01_L",
+      "path": "Bone_Root/Bone_CannonM01_L/Bone_CannonC01_L",
+      "binding_path_crc32": "2ae992b5"
+    },
+    "Bone_C_e768e147": {
+      "name": "Bone_CannonC01_R",
+      "path": "Bone_Root/Bone_CannonM01_R/Bone_CannonC01_R",
+      "binding_path_crc32": "e768e147"
+    },
+    "Bone_C_28af2cec": {
+      "name": "Bone_CannonC02_L",
+      "path": "Bone_Root/Bone_CannonM01_L/Bone_CannonC02_L",
+      "binding_path_crc32": "28af2cec"
+    },
+    "Bone_C_e52e5f1e": {
+      "name": "Bone_CannonC02_R",
+      "path": "Bone_Root/Bone_CannonM01_R/Bone_CannonC02_R",
+      "binding_path_crc32": "e52e5f1e"
+    },
+    "Bone_C_296d46db": {
+      "name": "Bone_CannonC03_L",
+      "path": "Bone_Root/Bone_CannonM01_L/Bone_CannonC03_L",
+      "binding_path_crc32": "296d46db"
+    },
+    "Bone_C_e4ec3529": {
+      "name": "Bone_CannonC03_R",
+      "path": "Bone_Root/Bone_CannonM01_R/Bone_CannonC03_R",
+      "binding_path_crc32": "e4ec3529"
+    },
+    "Bone_C_2c22505e": {
+      "name": "Bone_CannonC04_L",
+      "path": "Bone_Root/Bone_CannonM01_L/Bone_CannonC04_L",
+      "binding_path_crc32": "2c22505e"
+    },
+    "Bone_C_e1a323ac": {
+      "name": "Bone_CannonC04_R",
+      "path": "Bone_Root/Bone_CannonM01_R/Bone_CannonC04_R",
+      "binding_path_crc32": "e1a323ac"
+    },
+    "Bone_C_f96fd31a": {
+      "name": "Bone_CannonM01_L",
+      "path": "Bone_Root/Bone_CannonM01_L",
+      "binding_path_crc32": "f96fd31a"
+    },
+    "Bone_C_0360ee79": {
+      "name": "Bone_CannonM01_R",
+      "path": "Bone_Root/Bone_CannonM01_R",
+      "binding_path_crc32": "0360ee79"
+    },
+    "Bone_F_64a1c539": {
+      "name": "Bone_Framework01_M",
+      "path": "Bone_Root/Bone_Framework01_M",
+      "binding_path_crc32": "64a1c539"
+    },
+    "Bone_F_66e77b60": {
+      "name": "Bone_Framework02_M",
+      "path": "Bone_Root/Bone_Framework02_M",
+      "binding_path_crc32": "66e77b60"
+    },
+    "Bone_F_af2dbf35": {
+      "name": "Bone_Framework03_M",
+      "path": "Bone_Root/Bone_Framework01_M/Bone_Framework03_M",
+      "binding_path_crc32": "af2dbf35"
+    },
+    "Bone_F_9b24ff9c": {
+      "name": "Bone_FrameworkA01_R",
+      "path": "Bone_Root/Bone_Framework02_M/Bone_FrameworkA01_R",
+      "binding_path_crc32": "9b24ff9c"
+    },
+    "Bone_F_146a4c30": {
+      "name": "Bone_FrameworkA02_M",
+      "path": "Bone_Root/Bone_Framework02_M/Bone_FrameworkA02_M",
+      "binding_path_crc32": "146a4c30"
+    },
+    "Bone_F_62af1691": {
+      "name": "Bone_FrameworkA03_L",
+      "path": "Bone_Root/Bone_Framework02_M/Bone_FrameworkA03_L",
+      "binding_path_crc32": "62af1691"
+    },
+    "Bone_F_10e73082": {
+      "name": "Bone_FrameworkA04_M",
+      "path": "Bone_Root/Bone_Framework02_M/Bone_FrameworkA04_M",
+      "binding_path_crc32": "10e73082"
+    },
+    "Bone_F_506e8112": {
+      "name": "Bone_FrameworkB01_L",
+      "path": "Bone_Root/Bone_Framework01_M/Bone_FrameworkB01_L",
+      "binding_path_crc32": "506e8112"
+    },
+    "Bone_F_518c88b9": {
+      "name": "Bone_FrameworkB01_M",
+      "path": "Bone_Root/Bone_Framework02_M/Bone_FrameworkB01_M",
+      "binding_path_crc32": "518c88b9"
+    },
+    "Bone_F_aa61bc71": {
+      "name": "Bone_FrameworkB01_R",
+      "path": "Bone_Root/Bone_Framework01_M/Bone_FrameworkB01_R",
+      "binding_path_crc32": "aa61bc71"
+    },
+    "Bone_F_24cd0676": {
+      "name": "Bone_FrameworkB02_L",
+      "path": "Bone_Root/Bone_Framework02_M/Bone_FrameworkB02_L",
+      "binding_path_crc32": "24cd0676"
+    },
+    "Bone_F_53ca36e0": {
+      "name": "Bone_FrameworkB02_M",
+      "path": "Bone_Root/Bone_Framework02_M/Bone_FrameworkB02_M",
+      "binding_path_crc32": "53ca36e0"
+    },
+    "Bone_F_dec23b15": {
+      "name": "Bone_FrameworkB02_R",
+      "path": "Bone_Root/Bone_Framework02_M/Bone_FrameworkB02_R",
+      "binding_path_crc32": "dec23b15"
+    },
+    "Bone_F_24ed65ea": {
+      "name": "Bone_FrameworkB03_M",
+      "path": "Bone_Root/Bone_Framework01_M/Bone_FrameworkB03_M",
+      "binding_path_crc32": "24ed65ea"
+    },
+    "Bone_F_f8c9b6d6": {
+      "name": "Bone_FrameworkC01_R",
+      "path": "Bone_Root/Bone_Framework01_M/Bone_FrameworkC02_R/Bone_FrameworkC01_R",
+      "binding_path_crc32": "f8c9b6d6"
+    },
+    "Bone_F_95472b98": {
+      "name": "Bone_FrameworkC02_R",
+      "path": "Bone_Root/Bone_Framework01_M/Bone_FrameworkC02_R",
+      "binding_path_crc32": "95472b98"
+    },
+    "Bone_F_74a333fd": {
+      "name": "Bone_FrameworkC03_L",
+      "path": "Bone_Root/Bone_Framework01_M/Bone_FrameworkC04_L/Bone_FrameworkC03_L",
+      "binding_path_crc32": "74a333fd"
+    },
+    "Bone_F_6bc56a49": {
+      "name": "Bone_FrameworkC04_L",
+      "path": "Bone_Root/Bone_Framework01_M/Bone_FrameworkC04_L",
+      "binding_path_crc32": "6bc56a49"
+    },
+    "Bone_F_fba3e0ca": {
+      "name": "Bone_FrameworkD01_L",
+      "path": "Bone_Root/Bone_Framework01_M/Bone_FrameworkB01_L/Bone_FrameworkD01_L",
+      "binding_path_crc32": "fba3e0ca"
+    },
+    "Bone_F_9e16e600": {
+      "name": "Bone_FrameworkD01_M",
+      "path": "Bone_Root/Bone_Framework01_M/Bone_Framework03_M/Bone_FrameworkD01_M",
+      "binding_path_crc32": "9e16e600"
+    },
+    "Bone_F_9987c3f5": {
+      "name": "Bone_FrameworkD01_R",
+      "path": "Bone_Root/Bone_Framework01_M/Bone_FrameworkB01_R/Bone_FrameworkD01_R",
+      "binding_path_crc32": "9987c3f5"
+    },
+    "Bone_C_6d32abab": {
+      "name": "Bone_CannonA01_R",
+      "path": "Bone_CannonM01_R/Bone_CannonA01_R",
+      "binding_path_crc32": "6d32abab"
+    },
+    "Bone_C_6f7415f2": {
+      "name": "Bone_CannonA02_R",
+      "path": "Bone_CannonM01_R/Bone_CannonA02_R",
+      "binding_path_crc32": "6f7415f2"
+    },
+    "Bone_C_6eb67fc5": {
+      "name": "Bone_CannonA03_R",
+      "path": "Bone_CannonM01_R/Bone_CannonA03_R",
+      "binding_path_crc32": "6eb67fc5"
+    },
+    "Bone_C_6bf96940": {
+      "name": "Bone_CannonA04_R",
+      "path": "Bone_CannonM01_R/Bone_CannonA04_R",
+      "binding_path_crc32": "6bf96940"
+    },
+    "Bone_C_2a92d17b": {
+      "name": "Bone_CannonB01_R",
+      "path": "Bone_CannonM01_R/Bone_CannonB01_R",
+      "binding_path_crc32": "2a92d17b"
+    },
+    "Bone_C_28d46f22": {
+      "name": "Bone_CannonB02_R",
+      "path": "Bone_CannonM01_R/Bone_CannonB02_R",
+      "binding_path_crc32": "28d46f22"
+    },
+    "Bone_C_29160515": {
+      "name": "Bone_CannonB03_R",
+      "path": "Bone_CannonM01_R/Bone_CannonB03_R",
+      "binding_path_crc32": "29160515"
+    },
+    "Bone_C_2c591390": {
+      "name": "Bone_CannonB04_R",
+      "path": "Bone_CannonM01_R/Bone_CannonB04_R",
+      "binding_path_crc32": "2c591390"
+    },
+    "Bone_C_17f2f8cb": {
+      "name": "Bone_CannonC01_R",
+      "path": "Bone_CannonM01_R/Bone_CannonC01_R",
+      "binding_path_crc32": "17f2f8cb"
+    },
+    "Bone_C_15b44692": {
+      "name": "Bone_CannonC02_R",
+      "path": "Bone_CannonM01_R/Bone_CannonC02_R",
+      "binding_path_crc32": "15b44692"
+    },
+    "Bone_C_14762ca5": {
+      "name": "Bone_CannonC03_R",
+      "path": "Bone_CannonM01_R/Bone_CannonC03_R",
+      "binding_path_crc32": "14762ca5"
+    },
+    "Bone_C_11393a20": {
+      "name": "Bone_CannonC04_R",
+      "path": "Bone_CannonM01_R/Bone_CannonC04_R",
+      "binding_path_crc32": "11393a20"
+    },
+    "Bone_C_eb4e58af": {
+      "name": "Bone_CannonM01_R",
+      "path": "Bone_CannonM01_R",
+      "binding_path_crc32": "eb4e58af"
+    }
+  }
+}

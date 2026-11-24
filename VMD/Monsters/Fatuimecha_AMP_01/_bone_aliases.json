@@ -1,0 +1,9 @@
+{
+  "Monster_Fatuimecha_AMP_01": {
+    "Bone_C_a6f9da8d": {
+      "name": "Bone_Control01_M",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Body01_M/Bone_Control01_M",
+      "binding_path_crc32": "a6f9da8d"
+    }
+  }
+}

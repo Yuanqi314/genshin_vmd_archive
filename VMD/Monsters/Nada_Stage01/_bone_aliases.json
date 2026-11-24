@@ -1,0 +1,209 @@
+{
+  "Monster_Nada_Stage01": {
+    "Bone_D_13dc4bb5": {
+      "name": "Bone_DiscAll01_M",
+      "path": "Root/Bone_DiscAll01_M",
+      "binding_path_crc32": "13dc4bb5"
+    },
+    "Bone_E_d9abf405": {
+      "name": "Bone_Earring01_L",
+      "path": "Bone_Root/Bone_Chest01_M/Bone_Neck01_M/Bone_Head01_M/Bone_Earring01_L",
+      "binding_path_crc32": "d9abf405"
+    },
+    "Bone_E_23a4c966": {
+      "name": "Bone_Earring01_R",
+      "path": "Bone_Root/Bone_Chest01_M/Bone_Neck01_M/Bone_Head01_M/Bone_Earring01_R",
+      "binding_path_crc32": "23a4c966"
+    },
+    "Bone_E_0e1a708d": {
+      "name": "Bone_Earring02_L",
+      "path": "Bone_Root/Bone_Chest01_M/Bone_Neck01_M/Bone_Head01_M/Bone_Earring01_L/Bone_Earring02_L",
+      "binding_path_crc32": "0e1a708d"
+    },
+    "Bone_E_c39b037f": {
+      "name": "Bone_Earring02_R",
+      "path": "Bone_Root/Bone_Chest01_M/Bone_Neck01_M/Bone_Head01_M/Bone_Earring01_R/Bone_Earring02_R",
+      "binding_path_crc32": "c39b037f"
+    },
+    "Bone_F_3176f85e": {
+      "name": "Bone_FingerA01_L",
+      "path": "Root/Bone_ArmA01_L/Bone_WristA01_L/Bone_CupA01_L/Bone_FingerA01_L",
+      "binding_path_crc32": "3176f85e"
+    },
+    "Bone_F_9d530d05": {
+      "name": "Bone_FingerA01_R",
+      "path": "Root/Bone_ArmA01_R/Bone_WristA01_R/Bone_CupA01_R/Bone_FingerA01_R",
+      "binding_path_crc32": "9d530d05"
+    },
+    "Bone_F_5fed8941": {
+      "name": "Bone_FingerA02_L",
+      "path": "Root/Bone_ArmA01_L/Bone_WristA01_L/Bone_CupA01_L/Bone_FingerA01_L/Bone_FingerA02_L",
+      "binding_path_crc32": "5fed8941"
+    },
+    "Bone_F_7c1d5948": {
+      "name": "Bone_FingerA02_R",
+      "path": "Root/Bone_ArmA01_R/Bone_WristA01_R/Bone_CupA01_R/Bone_FingerA01_R/Bone_FingerA02_R",
+      "binding_path_crc32": "7c1d5948"
+    },
+    "Bone_F_6da578f5": {
+      "name": "Bone_FingerA03_L",
+      "path": "Root/Bone_ArmA01_L/Bone_WristA01_L/Bone_CupA01_L/Bone_FingerA01_L/Bone_FingerA02_L/Bone_FingerA03_L",
+      "binding_path_crc32": "6da578f5"
+    },
+    "Bone_F_9b6693cf": {
+      "name": "Bone_FingerA03_R",
+      "path": "Root/Bone_ArmA01_R/Bone_WristA01_R/Bone_CupA01_R/Bone_FingerA01_R/Bone_FingerA02_R/Bone_FingerA03_R",
+      "binding_path_crc32": "9b6693cf"
+    },
+    "Bone_F_911b5027": {
+      "name": "Bone_FingerB01_L",
+      "path": "Root/Bone_ArmB01_L/Bone_WristB01_L/Bone_CupB01_L/Bone_FingerB01_L",
+      "binding_path_crc32": "911b5027"
+    },
+    "Bone_F_3d3ea57c": {
+      "name": "Bone_FingerB01_R",
+      "path": "Root/Bone_ArmB01_R/Bone_WristB01_R/Bone_CupB01_R/Bone_FingerB01_R",
+      "binding_path_crc32": "3d3ea57c"
+    },
+    "Bone_F_d5b9102c": {
+      "name": "Bone_FingerB02_L",
+      "path": "Root/Bone_ArmB01_L/Bone_WristB01_L/Bone_CupB01_L/Bone_FingerB01_L/Bone_FingerB02_L",
+      "binding_path_crc32": "d5b9102c"
+    },
+    "Bone_F_f649c025": {
+      "name": "Bone_FingerB02_R",
+      "path": "Root/Bone_ArmB01_R/Bone_WristB01_R/Bone_CupB01_R/Bone_FingerB01_R/Bone_FingerB02_R",
+      "binding_path_crc32": "f649c025"
+    },
+    "Bone_F_795e9fa5": {
+      "name": "Bone_FingerB03_L",
+      "path": "Root/Bone_ArmB01_L/Bone_WristB01_L/Bone_CupB01_L/Bone_FingerB01_L/Bone_FingerB02_L/Bone_FingerB03_L",
+      "binding_path_crc32": "795e9fa5"
+    },
+    "Bone_F_8f9d749f": {
+      "name": "Bone_FingerB03_R",
+      "path": "Root/Bone_ArmB01_R/Bone_WristB01_R/Bone_CupB01_R/Bone_FingerB01_R/Bone_FingerB02_R/Bone_FingerB03_R",
+      "binding_path_crc32": "8f9d749f"
+    },
+    "Bone_M_1cd0c818": {
+      "name": "Bone_MiddleA01_L",
+      "path": "Root/Bone_ArmA01_L/Bone_WristA01_L/Bone_MiddleA01_L",
+      "binding_path_crc32": "1cd0c818"
+    },
+    "Bone_M_d089cb0c": {
+      "name": "Bone_MiddleA01_R",
+      "path": "Root/Bone_ArmA01_R/Bone_WristA01_R/Bone_MiddleA01_R",
+      "binding_path_crc32": "d089cb0c"
+    },
+    "Bone_M_796a71c3": {
+      "name": "Bone_MiddleA02_L",
+      "path": "Root/Bone_ArmA01_L/Bone_WristA01_L/Bone_MiddleA01_L/Bone_MiddleA02_L",
+      "binding_path_crc32": "796a71c3"
+    },
+    "Bone_M_de203c83": {
+      "name": "Bone_MiddleA02_R",
+      "path": "Root/Bone_ArmA01_R/Bone_WristA01_R/Bone_MiddleA01_R/Bone_MiddleA02_R",
+      "binding_path_crc32": "de203c83"
+    },
+    "Bone_M_a076537e": {
+      "name": "Bone_MiddleA03_L",
+      "path": "Root/Bone_ArmA01_L/Bone_WristA01_L/Bone_MiddleA01_L/Bone_MiddleA02_L/Bone_MiddleA03_L",
+      "binding_path_crc32": "a076537e"
+    },
+    "Bone_M_a62584db": {
+      "name": "Bone_MiddleA03_R",
+      "path": "Root/Bone_ArmA01_R/Bone_WristA01_R/Bone_MiddleA01_R/Bone_MiddleA02_R/Bone_MiddleA03_R",
+      "binding_path_crc32": "a62584db"
+    },
+    "Bone_M_2fe01fef": {
+      "name": "Bone_MiddleB01_L",
+      "path": "Root/Bone_ArmB01_L/Bone_WristB01_L/Bone_MiddleB01_L",
+      "binding_path_crc32": "2fe01fef"
+    },
+    "Bone_M_e3b91cfb": {
+      "name": "Bone_MiddleB01_R",
+      "path": "Root/Bone_ArmB01_R/Bone_WristB01_R/Bone_MiddleB01_R",
+      "binding_path_crc32": "e3b91cfb"
+    },
+    "Bone_M_b22d6f98": {
+      "name": "Bone_MiddleB02_L",
+      "path": "Root/Bone_ArmB01_L/Bone_WristB01_L/Bone_MiddleB01_L/Bone_MiddleB02_L",
+      "binding_path_crc32": "b22d6f98"
+    },
+    "Bone_M_156722d8": {
+      "name": "Bone_MiddleB02_R",
+      "path": "Root/Bone_ArmB01_R/Bone_WristB01_R/Bone_MiddleB01_R/Bone_MiddleB02_R",
+      "binding_path_crc32": "156722d8"
+    },
+    "Bone_M_02e65e91": {
+      "name": "Bone_MiddleB03_L",
+      "path": "Root/Bone_ArmB01_L/Bone_WristB01_L/Bone_MiddleB01_L/Bone_MiddleB02_L/Bone_MiddleB03_L",
+      "binding_path_crc32": "02e65e91"
+    },
+    "Bone_M_04b58934": {
+      "name": "Bone_MiddleB03_R",
+      "path": "Root/Bone_ArmB01_R/Bone_WristB01_R/Bone_MiddleB01_R/Bone_MiddleB02_R/Bone_MiddleB03_R",
+      "binding_path_crc32": "04b58934"
+    },
+    "Bone_P_6ad0ea18": {
+      "name": "Bone_PendantBack01_L",
+      "path": "Bone_Root/Bone_Chest01_M/Bone_Scapula01_L/Bone_Shoulder01_L/Bone_Armour01_L/Bone_PendantBack01_L",
+      "binding_path_crc32": "6ad0ea18"
+    },
+    "Bone_P_c86f25f4": {
+      "name": "Bone_PendantBack01_R",
+      "path": "Bone_Root/Bone_Chest01_M/Bone_Scapula01_R/Bone_Shoulder01_R/Bone_Armour01_R/Bone_PendantBack01_R",
+      "binding_path_crc32": "c86f25f4"
+    },
+    "Bone_P_27ea2533": {
+      "name": "Bone_PendantBack02_L",
+      "path": "Bone_Root/Bone_Chest01_M/Bone_Scapula01_L/Bone_Shoulder01_L/Bone_Armour01_L/Bone_PendantBack01_L/Bone_PendantBack02_L",
+      "binding_path_crc32": "27ea2533"
+    },
+    "Bone_P_835346be": {
+      "name": "Bone_PendantBack02_R",
+      "path": "Bone_Root/Bone_Chest01_M/Bone_Scapula01_R/Bone_Shoulder01_R/Bone_Armour01_R/Bone_PendantBack01_R/Bone_PendantBack02_R",
+      "binding_path_crc32": "835346be"
+    },
+    "Bone_P_b0b208dd": {
+      "name": "Bone_PendantFront01_L",
+      "path": "Bone_Root/Bone_Chest01_M/Bone_Scapula01_L/Bone_Shoulder01_L/Bone_Armour01_L/Bone_PendantFront01_L",
+      "binding_path_crc32": "b0b208dd"
+    },
+    "Bone_P_37e21bfd": {
+      "name": "Bone_PendantFront01_R",
+      "path": "Bone_Root/Bone_Chest01_M/Bone_Scapula01_R/Bone_Shoulder01_R/Bone_Armour01_R/Bone_PendantFront01_R",
+      "binding_path_crc32": "37e21bfd"
+    },
+    "Bone_P_2b40294d": {
+      "name": "Bone_PendantFront02_L",
+      "path": "Bone_Root/Bone_Chest01_M/Bone_Scapula01_L/Bone_Shoulder01_L/Bone_Armour01_L/Bone_PendantFront01_L/Bone_PendantFront02_L",
+      "binding_path_crc32": "2b40294d"
+    },
+    "Bone_P_6c3b4eca": {
+      "name": "Bone_PendantFront02_R",
+      "path": "Bone_Root/Bone_Chest01_M/Bone_Scapula01_R/Bone_Shoulder01_R/Bone_Armour01_R/Bone_PendantFront01_R/Bone_PendantFront02_R",
+      "binding_path_crc32": "6c3b4eca"
+    },
+    "Bone_S_67c9ab51": {
+      "name": "Bone_Scapula01_L",
+      "path": "Bone_Root/Bone_Chest01_M/Bone_Scapula01_L",
+      "binding_path_crc32": "67c9ab51"
+    },
+    "Bone_S_9dc69632": {
+      "name": "Bone_Scapula01_R",
+      "path": "Bone_Root/Bone_Chest01_M/Bone_Scapula01_R",
+      "binding_path_crc32": "9dc69632"
+    },
+    "Bone_S_d8535731": {
+      "name": "Bone_Shoulder01_L",
+      "path": "Bone_Root/Bone_Chest01_M/Bone_Scapula01_L/Bone_Shoulder01_L",
+      "binding_path_crc32": "d8535731"
+    },
+    "Bone_S_a56347ce": {
+      "name": "Bone_Shoulder01_R",
+      "path": "Bone_Root/Bone_Chest01_M/Bone_Scapula01_R/Bone_Shoulder01_R",
+      "binding_path_crc32": "a56347ce"
+    }
+  }
+}

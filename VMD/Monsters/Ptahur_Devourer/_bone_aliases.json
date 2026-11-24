@@ -1,0 +1,179 @@
+{
+  "Monster_Ptahur_Devourer": {
+    "Bone_C_95a98a0d": {
+      "name": "Bone_ChestScale01_M",
+      "path": "Bone_Root/Bone_Chest01_M/Bone_ChestScale01_M",
+      "binding_path_crc32": "95a98a0d"
+    },
+    "Bone_C_7a2c8574": {
+      "name": "Bone_ColliderNode01_L",
+      "path": "Bone_Root/Bone_Chest01_M/Bone_Shoulder01_L/Bone_UpArm01_L/Bone_ForeArm01_L/Bone_ColliderNode01_L",
+      "binding_path_crc32": "7a2c8574"
+    },
+    "Bone_C_4996f89e": {
+      "name": "Bone_ColliderNode01_M",
+      "path": "Bone_Root/Bone_Neck01_M/Bone_ColliderNode01_M",
+      "binding_path_crc32": "4996f89e"
+    },
+    "Bone_C_fd02e374": {
+      "name": "Bone_ColliderNode01_R",
+      "path": "Bone_Root/Bone_Chest01_M/Bone_Shoulder01_R/Bone_UpArm01_R/Bone_ForeArm01_R/Bone_ColliderNode01_R",
+      "binding_path_crc32": "fd02e374"
+    },
+    "Bone_C_4f09ae4d": {
+      "name": "Bone_ColliderNode02_L",
+      "path": "Bone_Root/Bone_Spine02_M/Bone_Thigh01_L/Bone_Calf01_L/Bone_Feet01_L/Bone_ColliderNode02_L",
+      "binding_path_crc32": "4f09ae4d"
+    },
+    "Bone_C_53573f99": {
+      "name": "Bone_ColliderNode02_M",
+      "path": "Bone_Root/Bone_Spine02_M/Bone_ColliderNode02_M",
+      "binding_path_crc32": "53573f99"
+    },
+    "Bone_C_70fc0ab2": {
+      "name": "Bone_ColliderNode02_R",
+      "path": "Bone_Root/Bone_Spine02_M/Bone_Thigh01_R/Bone_Calf01_R/Bone_Feet01_R/Bone_ColliderNode02_R",
+      "binding_path_crc32": "70fc0ab2"
+    },
+    "Bone_C_718645e5": {
+      "name": "Bone_ColliderNode03_L",
+      "path": "Bone_Root/Bone_Spine08_M/Bone_Tailfin01_L/Bone_Tailfin02_L/Bone_ColliderNode03_L",
+      "binding_path_crc32": "718645e5"
+    },
+    "Bone_C_9cc5a906": {
+      "name": "Bone_ColliderNode03_M",
+      "path": "Bone_Root/Bone_Spine05_M/Bone_ColliderNode03_M",
+      "binding_path_crc32": "9cc5a906"
+    },
+    "Bone_C_bc652c87": {
+      "name": "Bone_ColliderNode03_R",
+      "path": "Bone_Root/Bone_Spine08_M/Bone_Tailfin01_R/Bone_Tailfin02_R/Bone_ColliderNode03_R",
+      "binding_path_crc32": "bc652c87"
+    },
+    "Bone_C_09ec99de": {
+      "name": "Bone_ColliderNode04_M",
+      "path": "Bone_Root/Bone_Spine07_M/Bone_ColliderNode04_M",
+      "binding_path_crc32": "09ec99de"
+    },
+    "Bone_F_36bfd563": {
+      "name": "Bone_ForeArm01_L",
+      "path": "Bone_Root/Bone_Chest01_M/Bone_Shoulder01_L/Bone_UpArm01_L/Bone_ForeArm01_L",
+      "binding_path_crc32": "36bfd563"
+    },
+    "Bone_F_f83f46d0": {
+      "name": "Bone_ForeArm01_R",
+      "path": "Bone_Root/Bone_Chest01_M/Bone_Shoulder01_R/Bone_UpArm01_R/Bone_ForeArm01_R",
+      "binding_path_crc32": "f83f46d0"
+    },
+    "Bone_N_d1f1207a": {
+      "name": "Bone_NeckScale01_M",
+      "path": "Bone_Root/Bone_Neck01_M/Bone_NeckScale01_M",
+      "binding_path_crc32": "d1f1207a"
+    },
+    "Bone_S_b4bf55c2": {
+      "name": "Bone_Shoulder01_L",
+      "path": "Bone_Root/Bone_Chest01_M/Bone_Shoulder01_L",
+      "binding_path_crc32": "b4bf55c2"
+    },
+    "Bone_S_4eb068a1": {
+      "name": "Bone_Shoulder01_R",
+      "path": "Bone_Root/Bone_Chest01_M/Bone_Shoulder01_R",
+      "binding_path_crc32": "4eb068a1"
+    },
+    "Bone_S_498e1552": {
+      "name": "Bone_SpineScale01_M",
+      "path": "Bone_Root/Bone_Spine01_M/Bone_SpineScale01_M",
+      "binding_path_crc32": "498e1552"
+    },
+    "Bone_S_3d2d9236": {
+      "name": "Bone_SpineScale02_M",
+      "path": "Bone_Root/Bone_Spine02_M/Bone_SpineScale02_M",
+      "binding_path_crc32": "3d2d9236"
+    },
+    "Bone_S_a79c12d5": {
+      "name": "Bone_SpineScale03_M",
+      "path": "Bone_Root/Bone_Spine03_M/Bone_SpineScale03_M",
+      "binding_path_crc32": "a79c12d5"
+    },
+    "Bone_S_d46a9cfe": {
+      "name": "Bone_SpineScale04_M",
+      "path": "Bone_Root/Bone_Spine04_M/Bone_SpineScale04_M",
+      "binding_path_crc32": "d46a9cfe"
+    },
+    "Bone_S_4edb1c1d": {
+      "name": "Bone_SpineScale05_M",
+      "path": "Bone_Root/Bone_Spine05_M/Bone_SpineScale05_M",
+      "binding_path_crc32": "4edb1c1d"
+    },
+    "Bone_S_3a789b79": {
+      "name": "Bone_SpineScale06_M",
+      "path": "Bone_Root/Bone_Spine06_M/Bone_SpineScale06_M",
+      "binding_path_crc32": "3a789b79"
+    },
+    "Bone_S_a0c91b9a": {
+      "name": "Bone_SpineScale07_M",
+      "path": "Bone_Root/Bone_Spine07_M/Bone_SpineScale07_M",
+      "binding_path_crc32": "a0c91b9a"
+    },
+    "Bone_S_dd95872f": {
+      "name": "Bone_SpineScale08_M",
+      "path": "Bone_Root/Bone_Spine08_M/Bone_SpineScale08_M",
+      "binding_path_crc32": "dd95872f"
+    },
+    "Bone_T_e7a268ba": {
+      "name": "Bone_Tailfin01_L",
+      "path": "Bone_Root/Bone_Spine08_M/Bone_Tailfin01_L",
+      "binding_path_crc32": "e7a268ba"
+    },
+    "Bone_T_1dad55d9": {
+      "name": "Bone_Tailfin01_R",
+      "path": "Bone_Root/Bone_Spine08_M/Bone_Tailfin01_R",
+      "binding_path_crc32": "1dad55d9"
+    },
+    "Bone_T_8ea0e350": {
+      "name": "Bone_Tailfin02_L",
+      "path": "Bone_Root/Bone_Spine08_M/Bone_Tailfin01_L/Bone_Tailfin02_L",
+      "binding_path_crc32": "8ea0e350"
+    },
+    "Bone_T_432190a2": {
+      "name": "Bone_Tailfin02_R",
+      "path": "Bone_Root/Bone_Spine08_M/Bone_Tailfin01_R/Bone_Tailfin02_R",
+      "binding_path_crc32": "432190a2"
+    },
+    "Bone_T_f80ccd69": {
+      "name": "Bone_Tailfin03_L",
+      "path": "Bone_Root/Bone_Spine08_M/Bone_Tailfin01_L/Bone_Tailfin02_L/Bone_Tailfin03_L",
+      "binding_path_crc32": "f80ccd69"
+    },
+    "Bone_T_7ce521a6": {
+      "name": "Bone_Tailfin03_R",
+      "path": "Bone_Root/Bone_Spine08_M/Bone_Tailfin01_R/Bone_Tailfin02_R/Bone_Tailfin03_R",
+      "binding_path_crc32": "7ce521a6"
+    },
+    "Effect_66302022": {
+      "name": "EffectPoint_Transfer01_M",
+      "path": "Root/EffectPoint_Transfer01_M",
+      "binding_path_crc32": "66302022"
+    },
+    "Effect_64769e7b": {
+      "name": "EffectPoint_Transfer02_M",
+      "path": "Root/EffectPoint_Transfer02_M",
+      "binding_path_crc32": "64769e7b"
+    },
+    "Effect_1ea4f99d": {
+      "name": "EffectPoint_WaterTouchPoint01_M",
+      "path": "Root/EffectPoint_WaterTouchPoint01_M",
+      "binding_path_crc32": "1ea4f99d"
+    },
+    "Effect_1ce247c4": {
+      "name": "EffectPoint_WaterTouchPoint02_M",
+      "path": "Root/EffectPoint_WaterTouchPoint02_M",
+      "binding_path_crc32": "1ce247c4"
+    },
+    "Effect_1d202df3": {
+      "name": "EffectPoint_WaterTouchPoint03_M",
+      "path": "Root/EffectPoint_WaterTouchPoint03_M",
+      "binding_path_crc32": "1d202df3"
+    }
+  }
+}

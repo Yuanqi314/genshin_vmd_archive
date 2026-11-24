@@ -1,0 +1,169 @@
+{
+  "Monster_Dahaka": {
+    "Bone_F_4e0ed4b2": {
+      "name": "Bone_FaceMask_01",
+      "path": "Bone_Root/Bone_Spine02/Bone_FrontRoot/Bone_Neck/Bone_Head/Bone_FaceMask_01",
+      "binding_path_crc32": "4e0ed4b2"
+    },
+    "Bone_F_ae1278dd": {
+      "name": "Bone_Flexible_L_01",
+      "path": "Bone_Root/Bone_Spine02/Bone_FrontRoot/Bone_Flexible_L_01",
+      "binding_path_crc32": "ae1278dd"
+    },
+    "Bone_F_b1d6eb12": {
+      "name": "Bone_Flexible_L_02",
+      "path": "Bone_Root/Bone_Spine02/Bone_Flexible_L_02",
+      "binding_path_crc32": "b1d6eb12"
+    },
+    "Bone_F_c6d1db84": {
+      "name": "Bone_Flexible_L_03",
+      "path": "Bone_Root/Bone_Spine02/Bone_Flexible_L_03",
+      "binding_path_crc32": "c6d1db84"
+    },
+    "Bone_F_58b54e27": {
+      "name": "Bone_Flexible_L_04",
+      "path": "Bone_Root/Bone_Spine02/Bone_Flexible_L_04",
+      "binding_path_crc32": "58b54e27"
+    },
+    "Bone_F_1ed45871": {
+      "name": "Bone_Flexible_R_01",
+      "path": "Bone_Root/Bone_Spine02/Bone_FrontRoot/Bone_Flexible_R_01",
+      "binding_path_crc32": "1ed45871"
+    },
+    "Bone_F_0110cbbe": {
+      "name": "Bone_Flexible_R_02",
+      "path": "Bone_Root/Bone_Spine02/Bone_Flexible_R_02",
+      "binding_path_crc32": "0110cbbe"
+    },
+    "Bone_F_7617fb28": {
+      "name": "Bone_Flexible_R_03",
+      "path": "Bone_Root/Bone_Spine02/Bone_Flexible_R_03",
+      "binding_path_crc32": "7617fb28"
+    },
+    "Bone_F_e8736e8b": {
+      "name": "Bone_Flexible_R_04",
+      "path": "Bone_Root/Bone_Spine02/Bone_Flexible_R_04",
+      "binding_path_crc32": "e8736e8b"
+    },
+    "Bone_L_05e57151": {
+      "name": "Bone_L_HorseLink",
+      "path": "Bone_Root/Bone_L_Thigh/Bone_L_Calf/Bone_L_HorseLink",
+      "binding_path_crc32": "05e57151"
+    },
+    "Bone_L_0ed21be3": {
+      "name": "Bone_L_ThighMuscle",
+      "path": "Bone_Root/Bone_L_Thigh/Bone_L_ThighMuscle",
+      "binding_path_crc32": "0ed21be3"
+    },
+    "Bone_L_34971290": {
+      "name": "Bone_L_ThighMuscleShrink",
+      "path": "Bone_Root/Bone_L_Thigh/Bone_L_ThighMuscleShrink",
+      "binding_path_crc32": "34971290"
+    },
+    "Bone_L_2e75d316": {
+      "name": "Bone_L_UpperArmMuscle",
+      "path": "Bone_Root/Bone_Spine02/Bone_FrontRoot/Bone_L_Clavicle/Bone_L_UpperArm/Bone_L_UpperArmMuscle",
+      "binding_path_crc32": "2e75d316"
+    },
+    "Bone_M_62426e1f": {
+      "name": "Bone_Membrane_L_01",
+      "path": "Bone_Root/Bone_Spine02/Bone_FrontRoot/Bone_Neck/Bone_Head/Bone_Membrane_L_01",
+      "binding_path_crc32": "62426e1f"
+    },
+    "Bone_M_d2844eb3": {
+      "name": "Bone_Membrane_R_01",
+      "path": "Bone_Root/Bone_Spine02/Bone_FrontRoot/Bone_Neck/Bone_Head/Bone_Membrane_R_01",
+      "binding_path_crc32": "d2844eb3"
+    },
+    "Bone_O_8e7d08a0": {
+      "name": "Bone_Osteoderms_L_01",
+      "path": "Bone_Root/Bone_Spine02/Bone_FrontRoot/Bone_Osteoderms_L_01",
+      "binding_path_crc32": "8e7d08a0"
+    },
+    "Bone_O_1774591a": {
+      "name": "Bone_Osteoderms_L_02",
+      "path": "Bone_Root/Bone_Spine02/Bone_FrontRoot/Bone_Osteoderms_L_02",
+      "binding_path_crc32": "1774591a"
+    },
+    "Bone_O_4751c16e": {
+      "name": "Bone_Osteoderms_L_03",
+      "path": "Bone_Root/Bone_Spine02/Bone_Osteoderms_L_03",
+      "binding_path_crc32": "4751c16e"
+    },
+    "Bone_O_34f079f9": {
+      "name": "Bone_Osteoderms_L_04",
+      "path": "Bone_Root/Bone_Osteoderms_L_04",
+      "binding_path_crc32": "34f079f9"
+    },
+    "Bone_O_43f7496f": {
+      "name": "Bone_Osteoderms_L_05",
+      "path": "Bone_Root/Bone_Osteoderms_L_05",
+      "binding_path_crc32": "43f7496f"
+    },
+    "Bone_O_dafe18d5": {
+      "name": "Bone_Osteoderms_L_06",
+      "path": "Bone_Root/Bone_Osteoderms_L_06",
+      "binding_path_crc32": "dafe18d5"
+    },
+    "Bone_O_3ebb280c": {
+      "name": "Bone_Osteoderms_R_01",
+      "path": "Bone_Root/Bone_Spine02/Bone_FrontRoot/Bone_Osteoderms_R_01",
+      "binding_path_crc32": "3ebb280c"
+    },
+    "Bone_O_a7b279b6": {
+      "name": "Bone_Osteoderms_R_02",
+      "path": "Bone_Root/Bone_Spine02/Bone_FrontRoot/Bone_Osteoderms_R_02",
+      "binding_path_crc32": "a7b279b6"
+    },
+    "Bone_O_f797e1c2": {
+      "name": "Bone_Osteoderms_R_03",
+      "path": "Bone_Root/Bone_Spine02/Bone_Osteoderms_R_03",
+      "binding_path_crc32": "f797e1c2"
+    },
+    "Bone_O_84365955": {
+      "name": "Bone_Osteoderms_R_04",
+      "path": "Bone_Root/Bone_Osteoderms_R_04",
+      "binding_path_crc32": "84365955"
+    },
+    "Bone_O_f33169c3": {
+      "name": "Bone_Osteoderms_R_05",
+      "path": "Bone_Root/Bone_Osteoderms_R_05",
+      "binding_path_crc32": "f33169c3"
+    },
+    "Bone_O_6a383879": {
+      "name": "Bone_Osteoderms_R_06",
+      "path": "Bone_Root/Bone_Osteoderms_R_06",
+      "binding_path_crc32": "6a383879"
+    },
+    "Bone_R_4d450d02": {
+      "name": "Bone_R_HorseLink",
+      "path": "Bone_Root/Bone_R_Thigh/Bone_R_Calf/Bone_R_HorseLink",
+      "binding_path_crc32": "4d450d02"
+    },
+    "Bone_R_80961afc": {
+      "name": "Bone_R_ThighMuscle",
+      "path": "Bone_Root/Bone_R_Thigh/Bone_R_ThighMuscle",
+      "binding_path_crc32": "80961afc"
+    },
+    "Bone_R_04aa728e": {
+      "name": "Bone_R_ThighMuscleShrink",
+      "path": "Bone_Root/Bone_R_Thigh/Bone_R_ThighMuscleShrink",
+      "binding_path_crc32": "04aa728e"
+    },
+    "Bone_R_89749d8a": {
+      "name": "Bone_R_UpperArmMuscle",
+      "path": "Bone_Root/Bone_Spine02/Bone_FrontRoot/Bone_R_Clavicle/Bone_R_UpperArm/Bone_R_UpperArmMuscle",
+      "binding_path_crc32": "89749d8a"
+    },
+    "Bone_N_90c27309": {
+      "name": "Bone_NeckThorn_L_01",
+      "path": "Bone_Root/Bone_Spine02/Bone_FrontRoot/Bone_Neck/Bone_Head/Bone_NeckThorn_L_01",
+      "binding_path_crc32": "90c27309"
+    },
+    "Bone_N_200453a5": {
+      "name": "Bone_NeckThorn_R_01",
+      "path": "Bone_Root/Bone_Spine02/Bone_FrontRoot/Bone_Neck/Bone_Head/Bone_NeckThorn_R_01",
+      "binding_path_crc32": "200453a5"
+    }
+  }
+}

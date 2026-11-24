@@ -1,0 +1,169 @@
+{
+  "Monster_Vulture": {
+    "Bone_B_bbb65a0d": {
+      "name": "Bone_Breathe01_M",
+      "path": "Bone_Root/Bone_Spine01_M/Bone_Spine02_M/Bone_Breathe01_M",
+      "binding_path_crc32": "bbb65a0d"
+    },
+    "Bone_F_f11eaff5": {
+      "name": "Bone_Feather01_L",
+      "path": "Bone_Root/Bone_Spine01_M/Bone_Spine02_M/Bone_Wing01_L/Bone_Wing02_L/Bone_Feather01_L",
+      "binding_path_crc32": "f11eaff5"
+    },
+    "Bone_F_8b9d9185": {
+      "name": "Bone_Feather01_R",
+      "path": "Bone_Root/Bone_Spine01_M/Bone_Spine02_M/Bone_Wing01_R/Bone_Wing02_R/Bone_Feather01_R",
+      "binding_path_crc32": "8b9d9185"
+    },
+    "Bone_F_acd31784": {
+      "name": "Bone_Feather02_L",
+      "path": "Bone_Root/Bone_Spine01_M/Bone_Spine02_M/Bone_Wing01_L/Bone_Wing02_L/Bone_Wing03_L/Bone_Feather02_L",
+      "binding_path_crc32": "acd31784"
+    },
+    "Bone_F_d46706f1": {
+      "name": "Bone_Feather02_R",
+      "path": "Bone_Root/Bone_Spine01_M/Bone_Spine02_M/Bone_Wing01_R/Bone_Wing02_R/Bone_Wing03_R/Bone_Feather02_R",
+      "binding_path_crc32": "d46706f1"
+    },
+    "Bone_F_e89e801f": {
+      "name": "Bone_Feather03_L",
+      "path": "Bone_Root/Bone_Spine01_M/Bone_Spine02_M/Bone_Wing01_L/Bone_Wing02_L/Bone_Wing03_L/Bone_Wing04_L/Bone_Feather03_L",
+      "binding_path_crc32": "e89e801f"
+    },
+    "Bone_F_b85a078d": {
+      "name": "Bone_Feather03_R",
+      "path": "Bone_Root/Bone_Spine01_M/Bone_Spine02_M/Bone_Wing01_R/Bone_Wing02_R/Bone_Wing03_R/Bone_Wing04_R/Bone_Feather03_R",
+      "binding_path_crc32": "b85a078d"
+    },
+    "Bone_P_c904e704": {
+      "name": "Bone_Plumage01_L",
+      "path": "Bone_Root/Bone_Spine01_M/Bone_Spine02_M/Bone_Wing01_L/Bone_Wing02_L/Bone_Wing03_L/Bone_Wing04_L/Bone_Plumage01_L",
+      "binding_path_crc32": "c904e704"
+    },
+    "Bone_P_99c06096": {
+      "name": "Bone_Plumage01_R",
+      "path": "Bone_Root/Bone_Spine01_M/Bone_Spine02_M/Bone_Wing01_R/Bone_Wing02_R/Bone_Wing03_R/Bone_Wing04_R/Bone_Plumage01_R",
+      "binding_path_crc32": "99c06096"
+    },
+    "Bone_P_37aee1ce": {
+      "name": "Bone_Plumage02_L",
+      "path": "Bone_Root/Bone_Spine01_M/Bone_Spine02_M/Bone_Wing01_L/Bone_Wing02_L/Bone_Wing03_L/Bone_Wing04_L/Bone_Plumage01_L/Bone_Plumage02_L",
+      "binding_path_crc32": "37aee1ce"
+    },
+    "Bone_P_3c4f2e46": {
+      "name": "Bone_Plumage02_R",
+      "path": "Bone_Root/Bone_Spine01_M/Bone_Spine02_M/Bone_Wing01_R/Bone_Wing02_R/Bone_Wing03_R/Bone_Wing04_R/Bone_Plumage01_R/Bone_Plumage02_R",
+      "binding_path_crc32": "3c4f2e46"
+    },
+    "Bone_P_b3d1294c": {
+      "name": "Bone_Plumage03_L",
+      "path": "Bone_Root/Bone_Spine01_M/Bone_Spine02_M/Bone_Wing01_L/Bone_Wing02_L/Bone_Wing03_L/Bone_Wing04_L/Bone_Plumage01_L/Bone_Plumage02_L/Bone_Plumage03_L",
+      "binding_path_crc32": "b3d1294c"
+    },
+    "Bone_P_1351b930": {
+      "name": "Bone_Plumage03_R",
+      "path": "Bone_Root/Bone_Spine01_M/Bone_Spine02_M/Bone_Wing01_R/Bone_Wing02_R/Bone_Wing03_R/Bone_Wing04_R/Bone_Plumage01_R/Bone_Plumage02_R/Bone_Plumage03_R",
+      "binding_path_crc32": "1351b930"
+    },
+    "Bone_P_71b88061": {
+      "name": "Bone_Plumage11_L",
+      "path": "Bone_Root/Bone_Spine01_M/Bone_Spine02_M/Bone_Wing01_L/Bone_Wing02_L/Bone_Wing03_L/Bone_Wing04_L/Bone_Plumage11_L",
+      "binding_path_crc32": "71b88061"
+    },
+    "Bone_P_217c07f3": {
+      "name": "Bone_Plumage11_R",
+      "path": "Bone_Root/Bone_Spine01_M/Bone_Spine02_M/Bone_Wing01_R/Bone_Wing02_R/Bone_Wing03_R/Bone_Wing04_R/Bone_Plumage11_R",
+      "binding_path_crc32": "217c07f3"
+    },
+    "Bone_P_10c80535": {
+      "name": "Bone_Plumage12_L",
+      "path": "Bone_Root/Bone_Spine01_M/Bone_Spine02_M/Bone_Wing01_L/Bone_Wing02_L/Bone_Wing03_L/Bone_Wing04_L/Bone_Plumage11_L/Bone_Plumage12_L",
+      "binding_path_crc32": "10c80535"
+    },
+    "Bone_P_1b29cabd": {
+      "name": "Bone_Plumage12_R",
+      "path": "Bone_Root/Bone_Spine01_M/Bone_Spine02_M/Bone_Wing01_R/Bone_Wing02_R/Bone_Wing03_R/Bone_Wing04_R/Bone_Plumage11_R/Bone_Plumage12_R",
+      "binding_path_crc32": "1b29cabd"
+    },
+    "Bone_P_193f3055": {
+      "name": "Bone_Plumage13_L",
+      "path": "Bone_Root/Bone_Spine01_M/Bone_Spine02_M/Bone_Wing01_L/Bone_Wing02_L/Bone_Wing03_L/Bone_Wing04_L/Bone_Plumage11_L/Bone_Plumage12_L/Bone_Plumage13_L",
+      "binding_path_crc32": "193f3055"
+    },
+    "Bone_P_b9bfa029": {
+      "name": "Bone_Plumage13_R",
+      "path": "Bone_Root/Bone_Spine01_M/Bone_Spine02_M/Bone_Wing01_R/Bone_Wing02_R/Bone_Wing03_R/Bone_Wing04_R/Bone_Plumage11_R/Bone_Plumage12_R/Bone_Plumage13_R",
+      "binding_path_crc32": "b9bfa029"
+    },
+    "Bone_P_630d2f8f": {
+      "name": "Bone_Plumage21_L",
+      "path": "Bone_Root/Bone_Spine01_M/Bone_Spine02_M/Bone_Wing01_L/Bone_Wing02_L/Bone_Wing03_L/Bone_Wing04_L/Bone_Plumage21_L",
+      "binding_path_crc32": "630d2f8f"
+    },
+    "Bone_P_33c9a81d": {
+      "name": "Bone_Plumage21_R",
+      "path": "Bone_Root/Bone_Spine01_M/Bone_Spine02_M/Bone_Wing01_R/Bone_Wing02_R/Bone_Wing03_R/Bone_Wing04_R/Bone_Plumage21_R",
+      "binding_path_crc32": "33c9a81d"
+    },
+    "Bone_P_79632838": {
+      "name": "Bone_Plumage22_L",
+      "path": "Bone_Root/Bone_Spine01_M/Bone_Spine02_M/Bone_Wing01_L/Bone_Wing02_L/Bone_Wing03_L/Bone_Wing04_L/Bone_Plumage21_L/Bone_Plumage22_L",
+      "binding_path_crc32": "79632838"
+    },
+    "Bone_P_7282e7b0": {
+      "name": "Bone_Plumage22_R",
+      "path": "Bone_Root/Bone_Spine01_M/Bone_Spine02_M/Bone_Wing01_R/Bone_Wing02_R/Bone_Wing03_R/Bone_Wing04_R/Bone_Plumage21_R/Bone_Plumage22_R",
+      "binding_path_crc32": "7282e7b0"
+    },
+    "Bone_P_3d7c1d3f": {
+      "name": "Bone_Plumage23_L",
+      "path": "Bone_Root/Bone_Spine01_M/Bone_Spine02_M/Bone_Wing01_L/Bone_Wing02_L/Bone_Wing03_L/Bone_Wing04_L/Bone_Plumage21_L/Bone_Plumage22_L/Bone_Plumage23_L",
+      "binding_path_crc32": "3d7c1d3f"
+    },
+    "Bone_P_9dfc8d43": {
+      "name": "Bone_Plumage23_R",
+      "path": "Bone_Root/Bone_Spine01_M/Bone_Spine02_M/Bone_Wing01_R/Bone_Wing02_R/Bone_Wing03_R/Bone_Wing04_R/Bone_Plumage21_R/Bone_Plumage22_R/Bone_Plumage23_R",
+      "binding_path_crc32": "9dfc8d43"
+    },
+    "Bone_S_26b746bd": {
+      "name": "Bone_Scapula01_L",
+      "path": "Bone_Root/Bone_Spine01_M/Bone_Scapula01_L",
+      "binding_path_crc32": "26b746bd"
+    },
+    "Bone_S_dcb87bde": {
+      "name": "Bone_Scapula01_R",
+      "path": "Bone_Root/Bone_Spine01_M/Bone_Scapula01_R",
+      "binding_path_crc32": "dcb87bde"
+    },
+    "Bone_F_f316d716": {
+      "name": "Bone_Feather04_L",
+      "path": "Bone_Root/Bone_Spine01_M/Bone_Spine02_M/Bone_Neck01_M/Bone_Feather04_L",
+      "binding_path_crc32": "f316d716"
+    },
+    "Bone_F_0919ea75": {
+      "name": "Bone_Feather04_R",
+      "path": "Bone_Root/Bone_Spine01_M/Bone_Spine02_M/Bone_Neck01_M/Bone_Feather04_R",
+      "binding_path_crc32": "0919ea75"
+    },
+    "Bone_F_b78fb896": {
+      "name": "Bone_Feather05_L",
+      "path": "Bone_Root/Bone_Spine01_M/Bone_Spine02_M/Bone_Neck01_M/Bone_Feather04_L/Bone_Feather05_L",
+      "binding_path_crc32": "b78fb896"
+    },
+    "Bone_F_7a0ecb64": {
+      "name": "Bone_Feather05_R",
+      "path": "Bone_Root/Bone_Spine01_M/Bone_Spine02_M/Bone_Neck01_M/Bone_Feather04_R/Bone_Feather05_R",
+      "binding_path_crc32": "7a0ecb64"
+    },
+    "Bone_F_f0920378": {
+      "name": "Bone_Feather06_L",
+      "path": "Bone_Root/Bone_Spine01_M/Bone_Spine02_M/Bone_Neck01_M/Bone_Feather06_L",
+      "binding_path_crc32": "f0920378"
+    },
+    "Bone_F_0a9d3e1b": {
+      "name": "Bone_Feather06_R",
+      "path": "Bone_Root/Bone_Spine01_M/Bone_Spine02_M/Bone_Neck01_M/Bone_Feather06_R",
+      "binding_path_crc32": "0a9d3e1b"
+    }
+  }
+}

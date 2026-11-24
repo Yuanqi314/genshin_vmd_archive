@@ -1,0 +1,169 @@
+{
+  "Monster_Wolf_LupiBoreas": {
+    "Bone_L_5169e0cb": {
+      "name": "Bone_L_Foot_Twist",
+      "path": "Bone_Root/Bone_L_Thigh/Bone_L_Calf/Bone_L_Foot/Bone_L_Foot_Twist",
+      "binding_path_crc32": "5169e0cb"
+    },
+    "Bone_L_d5b2b70a": {
+      "name": "Bone_L_Hand_Twist",
+      "path": "Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Spine_02/Bone_FrontRoot/Bone_L_Clavicle/Bone_L_UpperArm/Bone_L_Forearm/Bone_L_Hand/Bone_L_Hand_Twist",
+      "binding_path_crc32": "d5b2b70a"
+    },
+    "Bone_L_e0c1f6f3": {
+      "name": "Bone_L_Special_01",
+      "path": "Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Spine_02/Bone_FrontRoot/Bone_L_Special_01",
+      "binding_path_crc32": "e0c1f6f3"
+    },
+    "Bone_L_8b332372": {
+      "name": "Bone_L_Special_02",
+      "path": "Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Spine_02/Bone_FrontRoot/Bone_L_Special_01/Bone_L_Special_02",
+      "binding_path_crc32": "8b332372"
+    },
+    "Bone_L_21c900fa": {
+      "name": "Bone_L_Special_03",
+      "path": "Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Spine_02/Bone_FrontRoot/Bone_L_Special_01/Bone_L_Special_02/Bone_L_Special_03",
+      "binding_path_crc32": "21c900fa"
+    },
+    "Bone_L_adcbe358": {
+      "name": "Bone_L_Special_04",
+      "path": "Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Spine_02/Bone_FrontRoot/Bone_L_Special_01/Bone_L_Special_02/Bone_L_Special_03/Bone_L_Special_04",
+      "binding_path_crc32": "adcbe358"
+    },
+    "Bone_L_3a145da2": {
+      "name": "Bone_L_Special_05",
+      "path": "Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Spine_02/Bone_FrontRoot/Bone_L_Special_01/Bone_L_Special_02/Bone_L_Special_03/Bone_L_Special_04/Bone_L_Special_05",
+      "binding_path_crc32": "3a145da2"
+    },
+    "Bone_L_9f6b01e3": {
+      "name": "Bone_L_Special_06",
+      "path": "Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Spine_02/Bone_FrontRoot/Bone_L_Special_01/Bone_L_Special_02/Bone_L_Special_03/Bone_L_Special_04/Bone_L_Special_05/Bone_L_Special_06",
+      "binding_path_crc32": "9f6b01e3"
+    },
+    "Bone_L_c6f5c7a1": {
+      "name": "Bone_L_Special_07",
+      "path": "Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Spine_02/Bone_FrontRoot/Bone_L_Special_01/Bone_L_Special_02/Bone_L_Special_03/Bone_L_Special_04/Bone_L_Special_05/Bone_L_Special_06/Bone_L_Special_07",
+      "binding_path_crc32": "c6f5c7a1"
+    },
+    "Bone_L_cb5e0e5b": {
+      "name": "Bone_L_Special_08",
+      "path": "Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Spine_02/Bone_FrontRoot/Bone_L_Special_01/Bone_L_Special_02/Bone_L_Special_03/Bone_L_Special_04/Bone_L_Special_05/Bone_L_Special_06/Bone_L_Special_07/Bone_L_Special_08",
+      "binding_path_crc32": "cb5e0e5b"
+    },
+    "Bone_L_a2b46c72": {
+      "name": "Bone_L_Special_09",
+      "path": "Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Spine_02/Bone_FrontRoot/Bone_L_Special_01/Bone_L_Special_02/Bone_L_Special_03/Bone_L_Special_04/Bone_L_Special_05/Bone_L_Special_06/Bone_L_Special_07/Bone_L_Special_08/Bone_L_Special_09",
+      "binding_path_crc32": "a2b46c72"
+    },
+    "Bone_L_a39c9360": {
+      "name": "Bone_L_Thigh_Twist01",
+      "path": "Bone_Root/Bone_L_Thigh/Bone_L_Thigh_Twist01",
+      "binding_path_crc32": "a39c9360"
+    },
+    "Bone_L_3a95c2da": {
+      "name": "Bone_L_Thigh_Twist02",
+      "path": "Bone_Root/Bone_L_Thigh/Bone_L_Thigh_Twist02",
+      "binding_path_crc32": "3a95c2da"
+    },
+    "Bone_R_5d50b4ff": {
+      "name": "Bone_R_Foot_Twist",
+      "path": "Bone_Root/Bone_R_Thigh/Bone_R_Calf/Bone_R_Foot/Bone_R_Foot_Twist",
+      "binding_path_crc32": "5d50b4ff"
+    },
+    "Bone_R_29aca4cf": {
+      "name": "Bone_R_Hand_Twist",
+      "path": "Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Spine_02/Bone_FrontRoot/Bone_R_Clavicle/Bone_R_UpperArm/Bone_R_Forearm/Bone_R_Hand/Bone_R_Hand_Twist",
+      "binding_path_crc32": "29aca4cf"
+    },
+    "Bone_R_05e8c811": {
+      "name": "Bone_R_Special_01",
+      "path": "Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Spine_02/Bone_FrontRoot/Bone_R_Special_01",
+      "binding_path_crc32": "05e8c811"
+    },
+    "Bone_R_afc275a3": {
+      "name": "Bone_R_Special_02",
+      "path": "Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Spine_02/Bone_FrontRoot/Bone_R_Special_01/Bone_R_Special_02",
+      "binding_path_crc32": "afc275a3"
+    },
+    "Bone_R_d39e9d00": {
+      "name": "Bone_R_Special_03",
+      "path": "Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Spine_02/Bone_FrontRoot/Bone_R_Special_01/Bone_R_Special_02/Bone_R_Special_03",
+      "binding_path_crc32": "d39e9d00"
+    },
+    "Bone_R_57fa30ec": {
+      "name": "Bone_R_Special_04",
+      "path": "Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Spine_02/Bone_FrontRoot/Bone_R_Special_01/Bone_R_Special_02/Bone_R_Special_03/Bone_R_Special_04",
+      "binding_path_crc32": "57fa30ec"
+    },
+    "Bone_R_dabe5979": {
+      "name": "Bone_R_Special_05",
+      "path": "Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Spine_02/Bone_FrontRoot/Bone_R_Special_01/Bone_R_Special_02/Bone_R_Special_03/Bone_R_Special_04/Bone_R_Special_05",
+      "binding_path_crc32": "dabe5979"
+    },
+    "Bone_R_7d1038a4": {
+      "name": "Bone_R_Special_06",
+      "path": "Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Spine_02/Bone_FrontRoot/Bone_R_Special_01/Bone_R_Special_02/Bone_R_Special_03/Bone_R_Special_04/Bone_R_Special_05/Bone_R_Special_06",
+      "binding_path_crc32": "7d1038a4"
+    },
+    "Bone_R_01b93070": {
+      "name": "Bone_R_Special_07",
+      "path": "Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Spine_02/Bone_FrontRoot/Bone_R_Special_01/Bone_R_Special_02/Bone_R_Special_03/Bone_R_Special_04/Bone_R_Special_05/Bone_R_Special_06/Bone_R_Special_07",
+      "binding_path_crc32": "01b93070"
+    },
+    "Bone_R_93eb949f": {
+      "name": "Bone_R_Special_08",
+      "path": "Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Spine_02/Bone_FrontRoot/Bone_R_Special_01/Bone_R_Special_02/Bone_R_Special_03/Bone_R_Special_04/Bone_R_Special_05/Bone_R_Special_06/Bone_R_Special_07/Bone_R_Special_08",
+      "binding_path_crc32": "93eb949f"
+    },
+    "Bone_R_518ec30f": {
+      "name": "Bone_R_Special_09",
+      "path": "Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Spine_02/Bone_FrontRoot/Bone_R_Special_01/Bone_R_Special_02/Bone_R_Special_03/Bone_R_Special_04/Bone_R_Special_05/Bone_R_Special_06/Bone_R_Special_07/Bone_R_Special_08/Bone_R_Special_09",
+      "binding_path_crc32": "518ec30f"
+    },
+    "Bone_R_19c1232c": {
+      "name": "Bone_R_Thigh_Twist01",
+      "path": "Bone_Root/Bone_R_Thigh/Bone_R_Thigh_Twist01",
+      "binding_path_crc32": "19c1232c"
+    },
+    "Bone_R_80c87296": {
+      "name": "Bone_R_Thigh_Twist02",
+      "path": "Bone_Root/Bone_R_Thigh/Bone_R_Thigh_Twist02",
+      "binding_path_crc32": "80c87296"
+    },
+    "Dummy__e57b23f3": {
+      "name": "Dummy_L_Gill_Down",
+      "path": "Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Spine_02/Bone_FrontRoot/Bone_Neck/Bone_Neck1/Bone_Neck2/Bone_Head/Bone_Mouth_01/Dummy_L_Gill_Down",
+      "binding_path_crc32": "e57b23f3"
+    },
+    "Dummy__da23b5f7": {
+      "name": "Dummy_L_Gill_Middle",
+      "path": "Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Spine_02/Bone_FrontRoot/Bone_Neck/Bone_Neck1/Bone_Neck2/Bone_Head/Dummy_L_Gill_Middle",
+      "binding_path_crc32": "da23b5f7"
+    },
+    "Dummy__6d0ca9f1": {
+      "name": "Dummy_L_Pendant_01",
+      "path": "Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Spine_02/Bone_FrontRoot/Bone_Neck/Bone_Neck1/Bone_Neck2/Dummy_L_Pendant_01",
+      "binding_path_crc32": "6d0ca9f1"
+    },
+    "Dummy__7dbdc3b0": {
+      "name": "Dummy_Pendant_02",
+      "path": "Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Spine_02/Bone_FrontRoot/Bone_Neck/Bone_Neck1/Bone_Neck2/Dummy_Pendant_02",
+      "binding_path_crc32": "7dbdc3b0"
+    },
+    "Dummy__19fbcc3e": {
+      "name": "Dummy_R_Gill_Down",
+      "path": "Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Spine_02/Bone_FrontRoot/Bone_Neck/Bone_Neck1/Bone_Neck2/Bone_Head/Bone_Mouth_01/Dummy_R_Gill_Down",
+      "binding_path_crc32": "19fbcc3e"
+    },
+    "Dummy__94c21f9d": {
+      "name": "Dummy_R_Gill_Middle",
+      "path": "Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Spine_02/Bone_FrontRoot/Bone_Neck/Bone_Neck1/Bone_Neck2/Bone_Head/Dummy_R_Gill_Middle",
+      "binding_path_crc32": "94c21f9d"
+    },
+    "Dummy__88259713": {
+      "name": "Dummy_R_Pendant_01",
+      "path": "Bone_Root/Bone_Spine/Bone_Spine_01/Bone_Spine_02/Bone_FrontRoot/Bone_Neck/Bone_Neck1/Bone_Neck2/Dummy_R_Pendant_01",
+      "binding_path_crc32": "88259713"
+    }
+  }
+}

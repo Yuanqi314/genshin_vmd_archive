@@ -1,0 +1,79 @@
+{
+  "Monster_MachinaIustitia_LengthShifter_01": {
+    "Bone_B_828eba01": {
+      "name": "Bone_Battery01_M",
+      "path": "Bone_Root/Bone_DownMain01_M/Bone_DownBody01_M/Bone_DownBody02_M/Bone_UpMain01_M/Bone_PartControl01_M/Bone_UpBody01_M/Bone_UpBody02_M/Bone_UpBody03_M/Bone_UpBody04_M/Bone_UpBody05_M/Bone_UpBody06_M/Bone_Gear01_M/Bone_Gear02_M/Bone_EnergyPos01_M/Bone_Battery01_M",
+      "binding_path_crc32": "828eba01"
+    },
+    "Bone_D_7bed3819": {
+      "name": "Bone_DownBody01_M",
+      "path": "Bone_Root/Bone_DownMain01_M/Bone_DownBody01_M",
+      "binding_path_crc32": "7bed3819"
+    },
+    "Bone_D_2530c5b8": {
+      "name": "Bone_DownBody02_M",
+      "path": "Bone_Root/Bone_DownMain01_M/Bone_DownBody01_M/Bone_DownBody02_M",
+      "binding_path_crc32": "2530c5b8"
+    },
+    "Bone_D_24f2af8f": {
+      "name": "Bone_DownBody03_M",
+      "path": "Bone_Root/Bone_DownMain01_M/Bone_DownBody01_M/Bone_DownBody03_M",
+      "binding_path_crc32": "24f2af8f"
+    },
+    "Bone_D_17becf37": {
+      "name": "Bone_DownMain01_M",
+      "path": "Bone_Root/Bone_DownMain01_M",
+      "binding_path_crc32": "17becf37"
+    },
+    "Bone_E_a067e436": {
+      "name": "Bone_EnergyPos01_M",
+      "path": "Bone_Root/Bone_DownMain01_M/Bone_DownBody01_M/Bone_DownBody02_M/Bone_UpMain01_M/Bone_PartControl01_M/Bone_UpBody01_M/Bone_UpBody02_M/Bone_UpBody03_M/Bone_UpBody04_M/Bone_UpBody05_M/Bone_UpBody06_M/Bone_Gear01_M/Bone_Gear02_M/Bone_EnergyPos01_M",
+      "binding_path_crc32": "a067e436"
+    },
+    "Bone_T_bf7291d0": {
+      "name": "Bone_TailWingA01_M",
+      "path": "Bone_Root/Bone_DownMain01_M/Bone_DownBody01_M/Bone_DownBody02_M/Bone_UpMain01_M/Bone_PartControl01_M/Bone_UpBody01_M/Bone_UpBody02_M/Bone_UpBody03_M/Bone_UpBody04_M/Bone_UpBody07_M/Bone_TailWingA01_M",
+      "binding_path_crc32": "bf7291d0"
+    },
+    "Bone_T_9efe5197": {
+      "name": "Bone_TailWingA02_M",
+      "path": "Bone_Root/Bone_DownMain01_M/Bone_DownBody01_M/Bone_DownBody02_M/Bone_UpMain01_M/Bone_PartControl01_M/Bone_UpBody01_M/Bone_UpBody02_M/Bone_UpBody03_M/Bone_UpBody04_M/Bone_UpBody07_M/Bone_TailWingA01_M/Bone_TailWingA02_M",
+      "binding_path_crc32": "9efe5197"
+    },
+    "Bone_T_8fd5db96": {
+      "name": "Bone_TailWingB01_L",
+      "path": "Bone_Root/Bone_DownMain01_M/Bone_DownBody01_M/Bone_DownBody02_M/Bone_UpMain01_M/Bone_PartControl01_M/Bone_UpBody01_M/Bone_UpBody02_M/Bone_UpBody03_M/Bone_UpBody04_M/Bone_UpBody07_M/Bone_TailWingB01_L",
+      "binding_path_crc32": "8fd5db96"
+    },
+    "Bone_T_75dae6f5": {
+      "name": "Bone_TailWingB01_R",
+      "path": "Bone_Root/Bone_DownMain01_M/Bone_DownBody01_M/Bone_DownBody02_M/Bone_UpMain01_M/Bone_PartControl01_M/Bone_UpBody01_M/Bone_UpBody02_M/Bone_UpBody03_M/Bone_UpBody04_M/Bone_UpBody07_M/Bone_TailWingB01_R",
+      "binding_path_crc32": "75dae6f5"
+    },
+    "Bone_T_932089bf": {
+      "name": "Bone_TailWingB02_L",
+      "path": "Bone_Root/Bone_DownMain01_M/Bone_DownBody01_M/Bone_DownBody02_M/Bone_UpMain01_M/Bone_PartControl01_M/Bone_UpBody01_M/Bone_UpBody02_M/Bone_UpBody03_M/Bone_UpBody04_M/Bone_UpBody07_M/Bone_TailWingB01_L/Bone_TailWingB02_L",
+      "binding_path_crc32": "932089bf"
+    },
+    "Bone_T_9011549e": {
+      "name": "Bone_TailWingB02_R",
+      "path": "Bone_Root/Bone_DownMain01_M/Bone_DownBody01_M/Bone_DownBody02_M/Bone_UpMain01_M/Bone_PartControl01_M/Bone_UpBody01_M/Bone_UpBody02_M/Bone_UpBody03_M/Bone_UpBody04_M/Bone_UpBody07_M/Bone_TailWingB01_R/Bone_TailWingB02_R",
+      "binding_path_crc32": "9011549e"
+    },
+    "Bone_T_c5b2c2b0": {
+      "name": "Bone_TailWingC01_M",
+      "path": "Bone_Root/Bone_DownMain01_M/Bone_DownBody01_M/Bone_DownBody02_M/Bone_UpMain01_M/Bone_PartControl01_M/Bone_UpBody01_M/Bone_UpBody02_M/Bone_UpBody03_M/Bone_UpBody04_M/Bone_UpBody07_M/Bone_TailWingC01_M",
+      "binding_path_crc32": "c5b2c2b0"
+    },
+    "Bone_T_3d05cef8": {
+      "name": "Bone_TailWingC02_M",
+      "path": "Bone_Root/Bone_DownMain01_M/Bone_DownBody01_M/Bone_DownBody02_M/Bone_UpMain01_M/Bone_PartControl01_M/Bone_UpBody01_M/Bone_UpBody02_M/Bone_UpBody03_M/Bone_UpBody04_M/Bone_UpBody07_M/Bone_TailWingC01_M/Bone_TailWingC02_M",
+      "binding_path_crc32": "3d05cef8"
+    },
+    "Bone_U_8c3062af": {
+      "name": "Bone_UpBodyRot01_M",
+      "path": "Bone_Root/Bone_DownMain01_M/Bone_DownBody01_M/Bone_DownBody02_M/Bone_UpMain01_M/Bone_PartControl01_M/Bone_UpBody01_M/Bone_UpBodyRot01_M",
+      "binding_path_crc32": "8c3062af"
+    }
+  }
+}

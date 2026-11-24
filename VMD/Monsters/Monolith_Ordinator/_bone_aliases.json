@@ -1,0 +1,59 @@
+{
+  "Monster_Monolith_Ordinator": {
+    "Bone_F_dbae5bcd": {
+      "name": "Bone_Framework01_L",
+      "path": "Bone_Root/Bone_Framework01_M/Bone_Framework01_L",
+      "binding_path_crc32": "dbae5bcd"
+    },
+    "Bone_F_64a1c539": {
+      "name": "Bone_Framework01_M",
+      "path": "Bone_Root/Bone_Framework01_M",
+      "binding_path_crc32": "64a1c539"
+    },
+    "Bone_F_21a166ae": {
+      "name": "Bone_Framework01_R",
+      "path": "Bone_Root/Bone_Framework01_M/Bone_Framework01_R",
+      "binding_path_crc32": "21a166ae"
+    },
+    "Bone_F_d9e8e594": {
+      "name": "Bone_Framework02_L",
+      "path": "Bone_Root/Bone_Framework01_M/Bone_Framework02_L",
+      "binding_path_crc32": "d9e8e594"
+    },
+    "Bone_F_66e77b60": {
+      "name": "Bone_Framework02_M",
+      "path": "Bone_Root/Bone_Framework02_M",
+      "binding_path_crc32": "66e77b60"
+    },
+    "Bone_F_23e7d8f7": {
+      "name": "Bone_Framework02_R",
+      "path": "Bone_Root/Bone_Framework01_M/Bone_Framework02_R",
+      "binding_path_crc32": "23e7d8f7"
+    },
+    "Bone_F_d82a8fa3": {
+      "name": "Bone_Framework03_L",
+      "path": "Bone_Root/Bone_Framework01_M/Bone_Framework03_L",
+      "binding_path_crc32": "d82a8fa3"
+    },
+    "Bone_F_67251157": {
+      "name": "Bone_Framework03_M",
+      "path": "Bone_Root/Bone_Framework03_M",
+      "binding_path_crc32": "67251157"
+    },
+    "Bone_F_2225b2c0": {
+      "name": "Bone_Framework03_R",
+      "path": "Bone_Root/Bone_Framework01_M/Bone_Framework03_R",
+      "binding_path_crc32": "2225b2c0"
+    },
+    "Bone_F_aa62a9b0": {
+      "name": "Bone_Framework04_M",
+      "path": "Bone_Root/Bone_Framework01_M/Bone_Framework04_M",
+      "binding_path_crc32": "aa62a9b0"
+    },
+    "Bone_F_63a86de5": {
+      "name": "Bone_Framework05_M",
+      "path": "Bone_Root/Bone_Framework05_M",
+      "binding_path_crc32": "63a86de5"
+    }
+  }
+}

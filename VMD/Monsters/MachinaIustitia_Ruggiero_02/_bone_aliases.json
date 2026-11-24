@@ -1,0 +1,359 @@
+{
+  "Monster_MachinaIustitia_Ruggiero_02": {
+    "Bone_A_1c9d2b69": {
+      "name": "Bone_ArmTwist01_L",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_L/Bone_ShldrOffset01_L/Bone_Shoulder01_L/Bone_ArmTwist01_L",
+      "binding_path_crc32": "1c9d2b69"
+    },
+    "Bone_A_42eb0953": {
+      "name": "Bone_ArmTwist01_R",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_R/Bone_ShldrOffset01_R/Bone_Shoulder01_R/Bone_ArmTwist01_R",
+      "binding_path_crc32": "42eb0953"
+    },
+    "Bone_B_1d65c09d": {
+      "name": "Bone_BatteryB01_L",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_L/Bone_ShldrOffset01_L/Bone_Shoulder01_L/Bone_EnergyPosB01_L/Bone_BatteryB01_L",
+      "binding_path_crc32": "1d65c09d"
+    },
+    "Bone_C_394002f4": {
+      "name": "Bone_ClawCentre01_R",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_R/Bone_ShldrOffset01_R/Bone_Shoulder01_R/Bone_ArmTwist01_R/Bone_Elbow01_R/Bone_Rod01_R/Bone_Rod02_R/Bone_Petaloid01_R/Bone_ClawCentre01_R",
+      "binding_path_crc32": "394002f4"
+    },
+    "Bone_E_b0f4344b": {
+      "name": "Bone_ElbowGear01_L",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_L/Bone_ShldrOffset01_L/Bone_Shoulder01_L/Bone_ArmTwist01_L/Bone_Elbow01_L/Bone_ElbowGear01_L",
+      "binding_path_crc32": "b0f4344b"
+    },
+    "Bone_E_c5b250cd": {
+      "name": "Bone_ElbowGear01_R",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_R/Bone_ShldrOffset01_R/Bone_Shoulder01_R/Bone_ArmTwist01_R/Bone_Elbow01_R/Bone_ElbowGear01_R",
+      "binding_path_crc32": "c5b250cd"
+    },
+    "Bone_E_ecc3f56b": {
+      "name": "Bone_EnergyB01_L",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_L/Bone_ShldrOffset01_L/Bone_Shoulder01_L/Bone_EnergyPosB01_L/Bone_EnergyB01_L",
+      "binding_path_crc32": "ecc3f56b"
+    },
+    "Bone_E_d5bb582f": {
+      "name": "Bone_EnergyPosB01_L",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_L/Bone_ShldrOffset01_L/Bone_Shoulder01_L/Bone_EnergyPosB01_L",
+      "binding_path_crc32": "d5bb582f"
+    },
+    "Bone_G_21d03d10": {
+      "name": "Bone_Gatling01_L",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_L/Bone_ShldrOffset01_L/Bone_Shoulder01_L/Bone_ArmTwist01_L/Bone_Elbow01_L/Bone_Gatling01_L",
+      "binding_path_crc32": "21d03d10"
+    },
+    "Bone_G_b89fbfa6": {
+      "name": "Bone_GatlingA01_L",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_L/Bone_ShldrOffset01_L/Bone_Shoulder01_L/Bone_ArmTwist01_L/Bone_Elbow01_L/Bone_Gatling01_L/Bone_GatlingA01_L",
+      "binding_path_crc32": "b89fbfa6"
+    },
+    "Bone_G_db980da7": {
+      "name": "Bone_GatlingA02_L",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_L/Bone_ShldrOffset01_L/Bone_Shoulder01_L/Bone_ArmTwist01_L/Bone_Elbow01_L/Bone_Gatling01_L/Bone_GatlingA01_L/Bone_GatlingA02_L",
+      "binding_path_crc32": "db980da7"
+    },
+    "Bone_G_ccf0f636": {
+      "name": "Bone_GatlingA03_L",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_L/Bone_ShldrOffset01_L/Bone_Shoulder01_L/Bone_ArmTwist01_L/Bone_Elbow01_L/Bone_Gatling01_L/Bone_GatlingA01_L/Bone_GatlingA02_L/Bone_GatlingA03_L",
+      "binding_path_crc32": "ccf0f636"
+    },
+    "Bone_G_58a67fd7": {
+      "name": "Bone_GatlingA04_L",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_L/Bone_ShldrOffset01_L/Bone_Shoulder01_L/Bone_ArmTwist01_L/Bone_Elbow01_L/Bone_Gatling01_L/Bone_GatlingA01_L/Bone_GatlingA02_L/Bone_GatlingA03_L/Bone_GatlingA04_L",
+      "binding_path_crc32": "58a67fd7"
+    },
+    "Bone_G_c87d8a84": {
+      "name": "Bone_GatlingA05_L",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_L/Bone_ShldrOffset01_L/Bone_Shoulder01_L/Bone_ArmTwist01_L/Bone_Elbow01_L/Bone_Gatling01_L/Bone_GatlingA01_L/Bone_GatlingA02_L/Bone_GatlingA05_L",
+      "binding_path_crc32": "c87d8a84"
+    },
+    "Bone_G_ca3b34dd": {
+      "name": "Bone_GatlingA06_L",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_L/Bone_ShldrOffset01_L/Bone_Shoulder01_L/Bone_ArmTwist01_L/Bone_Elbow01_L/Bone_Gatling01_L/Bone_GatlingA01_L/Bone_GatlingA02_L/Bone_GatlingA06_L",
+      "binding_path_crc32": "ca3b34dd"
+    },
+    "Bone_G_ff3fc576": {
+      "name": "Bone_GatlingB01_L",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_L/Bone_ShldrOffset01_L/Bone_Shoulder01_L/Bone_ArmTwist01_L/Bone_Elbow01_L/Bone_Gatling01_L/Bone_GatlingB01_L",
+      "binding_path_crc32": "ff3fc576"
+    },
+    "Bone_G_eadd4e4a": {
+      "name": "Bone_GatlingB02_L",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_L/Bone_ShldrOffset01_L/Bone_Shoulder01_L/Bone_ArmTwist01_L/Bone_Elbow01_L/Bone_Gatling01_L/Bone_GatlingB01_L/Bone_GatlingB02_L",
+      "binding_path_crc32": "eadd4e4a"
+    },
+    "Bone_G_1efc0279": {
+      "name": "Bone_GatlingB03_L",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_L/Bone_ShldrOffset01_L/Bone_Shoulder01_L/Bone_ArmTwist01_L/Bone_Elbow01_L/Bone_Gatling01_L/Bone_GatlingB01_L/Bone_GatlingB02_L/Bone_GatlingB03_L",
+      "binding_path_crc32": "1efc0279"
+    },
+    "Bone_G_317e858b": {
+      "name": "Bone_GatlingB04_L",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_L/Bone_ShldrOffset01_L/Bone_Shoulder01_L/Bone_ArmTwist01_L/Bone_Elbow01_L/Bone_Gatling01_L/Bone_GatlingB01_L/Bone_GatlingB02_L/Bone_GatlingB03_L/Bone_GatlingB04_L",
+      "binding_path_crc32": "317e858b"
+    },
+    "Bone_G_1a717ecb": {
+      "name": "Bone_GatlingB05_L",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_L/Bone_ShldrOffset01_L/Bone_Shoulder01_L/Bone_ArmTwist01_L/Bone_Elbow01_L/Bone_Gatling01_L/Bone_GatlingB01_L/Bone_GatlingB02_L/Bone_GatlingB05_L",
+      "binding_path_crc32": "1a717ecb"
+    },
+    "Bone_G_1837c092": {
+      "name": "Bone_GatlingB06_L",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_L/Bone_ShldrOffset01_L/Bone_Shoulder01_L/Bone_ArmTwist01_L/Bone_Elbow01_L/Bone_Gatling01_L/Bone_GatlingB01_L/Bone_GatlingB02_L/Bone_GatlingB06_L",
+      "binding_path_crc32": "1837c092"
+    },
+    "Bone_G_c25fecc6": {
+      "name": "Bone_GatlingC01_L",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_L/Bone_ShldrOffset01_L/Bone_Shoulder01_L/Bone_ArmTwist01_L/Bone_Elbow01_L/Bone_Gatling01_L/Bone_GatlingC01_L",
+      "binding_path_crc32": "c25fecc6"
+    },
+    "Bone_G_4cce8d2e": {
+      "name": "Bone_GatlingC02_L",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_L/Bone_ShldrOffset01_L/Bone_Shoulder01_L/Bone_ArmTwist01_L/Bone_Elbow01_L/Bone_Gatling01_L/Bone_GatlingC01_L/Bone_GatlingC02_L",
+      "binding_path_crc32": "4cce8d2e"
+    },
+    "Bone_G_50f851bc": {
+      "name": "Bone_GatlingC03_L",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_L/Bone_ShldrOffset01_L/Bone_Shoulder01_L/Bone_ArmTwist01_L/Bone_Elbow01_L/Bone_Gatling01_L/Bone_GatlingC01_L/Bone_GatlingC02_L/Bone_GatlingC03_L",
+      "binding_path_crc32": "50f851bc"
+    },
+    "Bone_G_1636d3bf": {
+      "name": "Bone_GatlingC04_L",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_L/Bone_ShldrOffset01_L/Bone_Shoulder01_L/Bone_ArmTwist01_L/Bone_Elbow01_L/Bone_Gatling01_L/Bone_GatlingC01_L/Bone_GatlingC02_L/Bone_GatlingC03_L/Bone_GatlingC04_L",
+      "binding_path_crc32": "1636d3bf"
+    },
+    "Bone_G_54752d0e": {
+      "name": "Bone_GatlingC05_L",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_L/Bone_ShldrOffset01_L/Bone_Shoulder01_L/Bone_ArmTwist01_L/Bone_Elbow01_L/Bone_Gatling01_L/Bone_GatlingC01_L/Bone_GatlingC02_L/Bone_GatlingC05_L",
+      "binding_path_crc32": "54752d0e"
+    },
+    "Bone_G_56339357": {
+      "name": "Bone_GatlingC06_L",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_L/Bone_ShldrOffset01_L/Bone_Shoulder01_L/Bone_ArmTwist01_L/Bone_Elbow01_L/Bone_Gatling01_L/Bone_GatlingC01_L/Bone_GatlingC02_L/Bone_GatlingC06_L",
+      "binding_path_crc32": "56339357"
+    },
+    "Bone_G_707f30d6": {
+      "name": "Bone_GatlingD01_L",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_L/Bone_ShldrOffset01_L/Bone_Shoulder01_L/Bone_ArmTwist01_L/Bone_Elbow01_L/Bone_Gatling01_L/Bone_GatlingD01_L",
+      "binding_path_crc32": "707f30d6"
+    },
+    "Bone_G_8857c990": {
+      "name": "Bone_GatlingD02_L",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_L/Bone_ShldrOffset01_L/Bone_Shoulder01_L/Bone_ArmTwist01_L/Bone_Elbow01_L/Bone_Gatling01_L/Bone_GatlingD01_L/Bone_GatlingD02_L",
+      "binding_path_crc32": "8857c990"
+    },
+    "Bone_G_6194eca6": {
+      "name": "Bone_GatlingD03_L",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_L/Bone_ShldrOffset01_L/Bone_Shoulder01_L/Bone_ArmTwist01_L/Bone_Elbow01_L/Bone_Gatling01_L/Bone_GatlingD01_L/Bone_GatlingD02_L/Bone_GatlingD03_L",
+      "binding_path_crc32": "6194eca6"
+    },
+    "Bone_G_e2cf7133": {
+      "name": "Bone_GatlingD04_L",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_L/Bone_ShldrOffset01_L/Bone_Shoulder01_L/Bone_ArmTwist01_L/Bone_Elbow01_L/Bone_Gatling01_L/Bone_GatlingD01_L/Bone_GatlingD02_L/Bone_GatlingD03_L/Bone_GatlingD04_L",
+      "binding_path_crc32": "e2cf7133"
+    },
+    "Bone_G_65199014": {
+      "name": "Bone_GatlingD05_L",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_L/Bone_ShldrOffset01_L/Bone_Shoulder01_L/Bone_ArmTwist01_L/Bone_Elbow01_L/Bone_Gatling01_L/Bone_GatlingD01_L/Bone_GatlingD02_L/Bone_GatlingD05_L",
+      "binding_path_crc32": "65199014"
+    },
+    "Bone_G_675f2e4d": {
+      "name": "Bone_GatlingD06_L",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_L/Bone_ShldrOffset01_L/Bone_Shoulder01_L/Bone_ArmTwist01_L/Bone_Elbow01_L/Bone_Gatling01_L/Bone_GatlingD01_L/Bone_GatlingD02_L/Bone_GatlingD06_L",
+      "binding_path_crc32": "675f2e4d"
+    },
+    "Bone_G_bd801d2c": {
+      "name": "Bone_GearFloat01_L",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_L/Bone_ShldrOffset01_L/Bone_Shoulder01_L/Bone_GearFloat01_L",
+      "binding_path_crc32": "bd801d2c"
+    },
+    "Bone_H_e7550630": {
+      "name": "Bone_HipBase01_L",
+      "path": "Bone_Root/Bone_Base01_M/Bone_HipBase01_L",
+      "binding_path_crc32": "e7550630"
+    },
+    "Bone_H_1d5a3b53": {
+      "name": "Bone_HipBase01_R",
+      "path": "Bone_Root/Bone_Base01_M/Bone_HipBase01_R",
+      "binding_path_crc32": "1d5a3b53"
+    },
+    "Bone_I_cdefa6ad": {
+      "name": "Bone_IndexFinger01_L",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_L/Bone_ShldrOffset01_L/Bone_Shoulder01_L/Bone_ArmTwist01_L/Bone_Elbow01_L/Bone_WristScale01_L/Bone_Wrist01_L/Bone_IndexFinger01_L",
+      "binding_path_crc32": "cdefa6ad"
+    },
+    "Bone_I_a1be9796": {
+      "name": "Bone_IndexFinger01_R",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_R/Bone_ShldrOffset01_R/Bone_Shoulder01_R/Bone_ArmTwist01_R/Bone_Elbow01_R/Bone_WristScale01_R/Bone_Wrist01_R/Bone_IndexFinger01_R",
+      "binding_path_crc32": "a1be9796"
+    },
+    "Bone_I_b80ecb7c": {
+      "name": "Bone_IndexFinger02_L",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_L/Bone_ShldrOffset01_L/Bone_Shoulder01_L/Bone_ArmTwist01_L/Bone_Elbow01_L/Bone_WristScale01_L/Bone_Wrist01_L/Bone_IndexFinger01_L/Bone_IndexFinger02_L",
+      "binding_path_crc32": "b80ecb7c"
+    },
+    "Bone_I_2d066cf6": {
+      "name": "Bone_IndexFinger02_R",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_R/Bone_ShldrOffset01_R/Bone_Shoulder01_R/Bone_ArmTwist01_R/Bone_Elbow01_R/Bone_WristScale01_R/Bone_Wrist01_R/Bone_IndexFinger01_R/Bone_IndexFinger02_R",
+      "binding_path_crc32": "2d066cf6"
+    },
+    "Bone_K_87e873e6": {
+      "name": "Bone_KneeGear01_L",
+      "path": "Bone_Root/Bone_Base01_M/Bone_HipBase01_L/Bone_Hip01_L/Bone_Knee01_L/Bone_KneeGear01_L",
+      "binding_path_crc32": "87e873e6"
+    },
+    "Bone_K_fbeeac5d": {
+      "name": "Bone_KneeGear01_R",
+      "path": "Bone_Root/Bone_Base01_M/Bone_HipBase01_R/Bone_Hip01_R/Bone_Knee01_R/Bone_KneeGear01_R",
+      "binding_path_crc32": "fbeeac5d"
+    },
+    "Bone_M_7219b1c9": {
+      "name": "Bone_MiddleFinger01_L",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_L/Bone_ShldrOffset01_L/Bone_Shoulder01_L/Bone_ArmTwist01_L/Bone_Elbow01_L/Bone_WristScale01_L/Bone_Wrist01_L/Bone_MiddleFinger01_L",
+      "binding_path_crc32": "7219b1c9"
+    },
+    "Bone_M_ed300b60": {
+      "name": "Bone_MiddleFinger01_R",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_R/Bone_ShldrOffset01_R/Bone_Shoulder01_R/Bone_ArmTwist01_R/Bone_Elbow01_R/Bone_WristScale01_R/Bone_Wrist01_R/Bone_MiddleFinger01_R",
+      "binding_path_crc32": "ed300b60"
+    },
+    "Bone_M_636090a0": {
+      "name": "Bone_MiddleFinger02_L",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_L/Bone_ShldrOffset01_L/Bone_Shoulder01_L/Bone_ArmTwist01_L/Bone_Elbow01_L/Bone_WristScale01_L/Bone_Wrist01_L/Bone_MiddleFinger01_L/Bone_MiddleFinger02_L",
+      "binding_path_crc32": "636090a0"
+    },
+    "Bone_M_f75356f8": {
+      "name": "Bone_MiddleFinger02_R",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_R/Bone_ShldrOffset01_R/Bone_Shoulder01_R/Bone_ArmTwist01_R/Bone_Elbow01_R/Bone_WristScale01_R/Bone_Wrist01_R/Bone_MiddleFinger01_R/Bone_MiddleFinger02_R",
+      "binding_path_crc32": "f75356f8"
+    },
+    "Bone_P_07473e00": {
+      "name": "Bone_Petaloid01_R",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_R/Bone_ShldrOffset01_R/Bone_Shoulder01_R/Bone_ArmTwist01_R/Bone_Elbow01_R/Bone_Rod01_R/Bone_Rod02_R/Bone_Petaloid01_R",
+      "binding_path_crc32": "07473e00"
+    },
+    "Bone_P_b9082ffe": {
+      "name": "Bone_PetaloidA01_R",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_R/Bone_ShldrOffset01_R/Bone_Shoulder01_R/Bone_ArmTwist01_R/Bone_Elbow01_R/Bone_Rod01_R/Bone_Rod02_R/Bone_Petaloid01_R/Bone_PetaloidA01_R",
+      "binding_path_crc32": "b9082ffe"
+    },
+    "Bone_P_fea8552e": {
+      "name": "Bone_PetaloidB01_R",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_R/Bone_ShldrOffset01_R/Bone_Shoulder01_R/Bone_ArmTwist01_R/Bone_Elbow01_R/Bone_Rod01_R/Bone_Rod02_R/Bone_Petaloid01_R/Bone_PetaloidB01_R",
+      "binding_path_crc32": "fea8552e"
+    },
+    "Bone_P_c3c87c9e": {
+      "name": "Bone_PetaloidC01_R",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_R/Bone_ShldrOffset01_R/Bone_Shoulder01_R/Bone_ArmTwist01_R/Bone_Elbow01_R/Bone_Rod01_R/Bone_Rod02_R/Bone_Petaloid01_R/Bone_PetaloidC01_R",
+      "binding_path_crc32": "c3c87c9e"
+    },
+    "Bone_P_88d2eeb5": {
+      "name": "Bone_PinkyFinger01_L",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_L/Bone_ShldrOffset01_L/Bone_Shoulder01_L/Bone_ArmTwist01_L/Bone_Elbow01_L/Bone_WristScale01_L/Bone_Wrist01_L/Bone_PinkyFinger01_L",
+      "binding_path_crc32": "88d2eeb5"
+    },
+    "Bone_P_e483df8e": {
+      "name": "Bone_PinkyFinger01_R",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_R/Bone_ShldrOffset01_R/Bone_Shoulder01_R/Bone_ArmTwist01_R/Bone_Elbow01_R/Bone_WristScale01_R/Bone_Wrist01_R/Bone_PinkyFinger01_R",
+      "binding_path_crc32": "e483df8e"
+    },
+    "Bone_P_679c22fc": {
+      "name": "Bone_PinkyFinger02_L",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_L/Bone_ShldrOffset01_L/Bone_Shoulder01_L/Bone_ArmTwist01_L/Bone_Elbow01_L/Bone_WristScale01_L/Bone_Wrist01_L/Bone_PinkyFinger01_L/Bone_PinkyFinger02_L",
+      "binding_path_crc32": "679c22fc"
+    },
+    "Bone_P_f2948576": {
+      "name": "Bone_PinkyFinger02_R",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_R/Bone_ShldrOffset01_R/Bone_Shoulder01_R/Bone_ArmTwist01_R/Bone_Elbow01_R/Bone_WristScale01_R/Bone_Wrist01_R/Bone_PinkyFinger01_R/Bone_PinkyFinger02_R",
+      "binding_path_crc32": "f2948576"
+    },
+    "Bone_R_b550ba3a": {
+      "name": "Bone_RingFinger01_L",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_L/Bone_ShldrOffset01_L/Bone_Shoulder01_L/Bone_ArmTwist01_L/Bone_Elbow01_L/Bone_WristScale01_L/Bone_Wrist01_L/Bone_RingFinger01_L",
+      "binding_path_crc32": "b550ba3a"
+    },
+    "Bone_R_18fb5113": {
+      "name": "Bone_RingFinger01_R",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_R/Bone_ShldrOffset01_R/Bone_Shoulder01_R/Bone_ArmTwist01_R/Bone_Elbow01_R/Bone_WristScale01_R/Bone_Wrist01_R/Bone_RingFinger01_R",
+      "binding_path_crc32": "18fb5113"
+    },
+    "Bone_R_27585bb9": {
+      "name": "Bone_RingFinger02_L",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_L/Bone_ShldrOffset01_L/Bone_Shoulder01_L/Bone_ArmTwist01_L/Bone_Elbow01_L/Bone_WristScale01_L/Bone_Wrist01_L/Bone_RingFinger01_L/Bone_RingFinger02_L",
+      "binding_path_crc32": "27585bb9"
+    },
+    "Bone_R_ec1675ba": {
+      "name": "Bone_RingFinger02_R",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_R/Bone_ShldrOffset01_R/Bone_Shoulder01_R/Bone_ArmTwist01_R/Bone_Elbow01_R/Bone_WristScale01_R/Bone_Wrist01_R/Bone_RingFinger01_R/Bone_RingFinger02_R",
+      "binding_path_crc32": "ec1675ba"
+    },
+    "Bone_S_7a11aedb": {
+      "name": "Bone_Scapula01_L",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_L",
+      "binding_path_crc32": "7a11aedb"
+    },
+    "Bone_S_801e93b8": {
+      "name": "Bone_Scapula01_R",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_R",
+      "binding_path_crc32": "801e93b8"
+    },
+    "Bone_S_a75f6713": {
+      "name": "Bone_ShldrOffset01_L",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_L/Bone_ShldrOffset01_L",
+      "binding_path_crc32": "a75f6713"
+    },
+    "Bone_S_3f156cb1": {
+      "name": "Bone_ShldrOffset01_R",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_R/Bone_ShldrOffset01_R",
+      "binding_path_crc32": "3f156cb1"
+    },
+    "Bone_S_78efbbd7": {
+      "name": "Bone_Shoulder01_L",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_L/Bone_ShldrOffset01_L/Bone_Shoulder01_L",
+      "binding_path_crc32": "78efbbd7"
+    },
+    "Bone_S_de324839": {
+      "name": "Bone_Shoulder01_R",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_R/Bone_ShldrOffset01_R/Bone_Shoulder01_R",
+      "binding_path_crc32": "de324839"
+    },
+    "Bone_S_0e2a1fed": {
+      "name": "Bone_SpineGear01_M",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_SpineGear01_M",
+      "binding_path_crc32": "0e2a1fed"
+    },
+    "Bone_T_ae8595b6": {
+      "name": "Bone_ThumbFinger01_L",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_L/Bone_ShldrOffset01_L/Bone_Shoulder01_L/Bone_ArmTwist01_L/Bone_Elbow01_L/Bone_WristScale01_L/Bone_Wrist01_L/Bone_ThumbFinger01_L",
+      "binding_path_crc32": "ae8595b6"
+    },
+    "Bone_T_c2d4a48d": {
+      "name": "Bone_ThumbFinger01_R",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_R/Bone_ShldrOffset01_R/Bone_Shoulder01_R/Bone_ArmTwist01_R/Bone_Elbow01_R/Bone_WristScale01_R/Bone_Wrist01_R/Bone_ThumbFinger01_R",
+      "binding_path_crc32": "c2d4a48d"
+    },
+    "Bone_T_802b4380": {
+      "name": "Bone_ThumbFinger02_L",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_L/Bone_ShldrOffset01_L/Bone_Shoulder01_L/Bone_ArmTwist01_L/Bone_Elbow01_L/Bone_WristScale01_L/Bone_Wrist01_L/Bone_ThumbFinger01_L/Bone_ThumbFinger02_L",
+      "binding_path_crc32": "802b4380"
+    },
+    "Bone_T_1523e40a": {
+      "name": "Bone_ThumbFinger02_R",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_R/Bone_ShldrOffset01_R/Bone_Shoulder01_R/Bone_ArmTwist01_R/Bone_Elbow01_R/Bone_WristScale01_R/Bone_Wrist01_R/Bone_ThumbFinger01_R/Bone_ThumbFinger02_R",
+      "binding_path_crc32": "1523e40a"
+    },
+    "Bone_W_ded46cc7": {
+      "name": "Bone_WristScale01_L",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_L/Bone_ShldrOffset01_L/Bone_Shoulder01_L/Bone_ArmTwist01_L/Bone_Elbow01_L/Bone_WristScale01_L",
+      "binding_path_crc32": "ded46cc7"
+    },
+    "Bone_W_f4340e0a": {
+      "name": "Bone_WristScale01_R",
+      "path": "Bone_Root/Bone_Base01_M/Bone_Spine01_M/Bone_Spine02_M/Bone_Scapula01_R/Bone_ShldrOffset01_R/Bone_Shoulder01_R/Bone_ArmTwist01_R/Bone_Elbow01_R/Bone_WristScale01_R",
+      "binding_path_crc32": "f4340e0a"
+    }
+  }
+}
