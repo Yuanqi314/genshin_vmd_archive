@@ -1,0 +1,159 @@
+{
+  "Avatar_Male_Catalyst_Ifa": {
+    "+Forea_b08a7595": {
+      "name": "+ForearmTwistS L A01",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/+ForearmTwistS L A01",
+      "binding_path_crc32": "b08a7595"
+    },
+    "+Forea_7042b120": {
+      "name": "+ForearmTwistS R A01",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/+ForearmTwistS R A01",
+      "binding_path_crc32": "7042b120"
+    },
+    "+HairS_3b2fe98a": {
+      "name": "+HairScalF CF A01",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 Neck/Bip001 Head/+HairScalF CF A01",
+      "binding_path_crc32": "3b2fe98a"
+    },
+    "+Pelvi_b6004842": {
+      "name": "+PelvisTwist CF A01",
+      "path": "Bip001/+PelvisTwist CF A01",
+      "binding_path_crc32": "b6004842"
+    },
+    "+Pelvi_3021e6f9": {
+      "name": "+PelvisTwistF L A01",
+      "path": "Bip001/+PelvisTwist CF A01/+PelvisTwistF L A01",
+      "binding_path_crc32": "3021e6f9"
+    },
+    "+Pelvi_eff1cf1a": {
+      "name": "+PelvisTwistF R A01",
+      "path": "Bip001/+PelvisTwist CF A01/+PelvisTwistF R A01",
+      "binding_path_crc32": "eff1cf1a"
+    },
+    "+Spine_5f9ebc68": {
+      "name": "+SpineFixF CF A01",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/+SpineFixF CF A01",
+      "binding_path_crc32": "5f9ebc68"
+    },
+    "+Thigh_b3814966": {
+      "name": "+ThighTwistF L A01",
+      "path": "Bip001/Bip001 Pelvis/Bip001 L Thigh/+ThighTwistF L A01",
+      "binding_path_crc32": "b3814966"
+    },
+    "+Thigh_acf4cbf0": {
+      "name": "+ThighTwistF R A01",
+      "path": "Bip001/Bip001 Pelvis/Bip001 R Thigh/+ThighTwistF R A01",
+      "binding_path_crc32": "acf4cbf0"
+    },
+    "+Upper_71655ed8": {
+      "name": "+UpperArmFixS L A01",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 L Clavicle/Bip001 L UpperArm/+UpperArmTwist L A01/+UpperArmFixS L A01",
+      "binding_path_crc32": "71655ed8"
+    },
+    "+Upper_22fe08ef": {
+      "name": "+UpperArmFixS R A01",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 R Clavicle/Bip001 R UpperArm/+UpperArmTwist R A01/+UpperArmFixS R A01",
+      "binding_path_crc32": "22fe08ef"
+    },
+    "+Upper_ed4dceb8": {
+      "name": "+UpperArmTwist L A01",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 L Clavicle/Bip001 L UpperArm/+UpperArmTwist L A01",
+      "binding_path_crc32": "ed4dceb8"
+    },
+    "+Upper_21e601ae": {
+      "name": "+UpperArmTwist R A01",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 R Clavicle/Bip001 R UpperArm/+UpperArmTwist R A01",
+      "binding_path_crc32": "21e601ae"
+    },
+    "+Visio_42913ea3": {
+      "name": "+VisionPelvisB CB A01",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/+VisionPelvisB CB A01",
+      "binding_path_crc32": "42913ea3"
+    },
+    "+Visio_fc413dbb": {
+      "name": "+VisionPelvisB CB A02",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/+VisionPelvisB CB A01/+VisionPelvisB CB A02",
+      "binding_path_crc32": "fc413dbb"
+    },
+    "+Tooth_b04add80": {
+      "name": "+ToothBone D A01",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 Neck/Bip001 Head/+ToothBone D A01",
+      "binding_path_crc32": "b04add80"
+    },
+    "+Tooth_edca63b2": {
+      "name": "+ToothBone U A01",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 Neck/Bip001 Head/+ToothBone U A01",
+      "binding_path_crc32": "edca63b2"
+    },
+    "+Upper_74449f02": {
+      "name": "+UpperArmTwist L A02",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 L Clavicle/Bip001 L UpperArm/+UpperArmTwist L A02",
+      "binding_path_crc32": "74449f02"
+    },
+    "+Upper_b8ef5014": {
+      "name": "+UpperArmTwist R A02",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 R Clavicle/Bip001 R UpperArm/+UpperArmTwist R A02",
+      "binding_path_crc32": "b8ef5014"
+    },
+    "+Flycl_a1a4c658": {
+      "name": "+FlycloakRootB CB A01",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/+FlycloakRootB CB A01",
+      "binding_path_crc32": "a1a4c658"
+    },
+    "Bone_W_fb83c615": {
+      "name": "Bone_WingsClose01_L",
+      "path": "Root/Bone_Root/Bone_Body01_M/Bone_WingsClose01_L",
+      "binding_path_crc32": "fb83c615"
+    },
+    "Bone_W_50d2f669": {
+      "name": "Bone_WingsNomal01_L",
+      "path": "Root/Bone_Root/Bone_Body01_M/Bone_WingsNomal01_L",
+      "binding_path_crc32": "50d2f669"
+    },
+    "Bone_W_aaddcb0a": {
+      "name": "Bone_WingsNomal01_R",
+      "path": "Root/Bone_Root/Bone_Body01_M/Bone_WingsNomal01_R",
+      "binding_path_crc32": "aaddcb0a"
+    },
+    "Bone_W_140b01c5": {
+      "name": "Bone_WingsOpen01_L",
+      "path": "Root/Bone_Root/Bone_Body01_M/Bone_WingsOpen01_L",
+      "binding_path_crc32": "140b01c5"
+    },
+    "Bone_W_ee043ca6": {
+      "name": "Bone_WingsOpen01_R",
+      "path": "Root/Bone_Root/Bone_Body01_M/Bone_WingsOpen01_R",
+      "binding_path_crc32": "ee043ca6"
+    },
+    "Bone_W_e34328c5": {
+      "name": "Bone_WingsOpen02_L",
+      "path": "Root/Bone_Root/Bone_Body01_M/Bone_WingsOpen01_L/Bone_WingsOpen02_L",
+      "binding_path_crc32": "e34328c5"
+    },
+    "Bone_W_e072f5e4": {
+      "name": "Bone_WingsOpen02_R",
+      "path": "Root/Bone_Root/Bone_Body01_M/Bone_WingsOpen01_R/Bone_WingsOpen02_R",
+      "binding_path_crc32": "e072f5e4"
+    },
+    "Bone_W_82f06edd": {
+      "name": "Bone_WingsOpen03_L",
+      "path": "Root/Bone_Root/Bone_Body01_M/Bone_WingsOpen01_L/Bone_WingsOpen02_L/Bone_WingsOpen03_L",
+      "binding_path_crc32": "82f06edd"
+    },
+    "Bone_W_d7eb74d6": {
+      "name": "Bone_WingsOpen03_R",
+      "path": "Root/Bone_Root/Bone_Body01_M/Bone_WingsOpen01_R/Bone_WingsOpen02_R/Bone_WingsOpen03_R",
+      "binding_path_crc32": "d7eb74d6"
+    },
+    "Effect_23f15f29": {
+      "name": "EffectPoint_LeftHandIK",
+      "path": "Root/Bone_Root/EffectPoint_LeftHandIK",
+      "binding_path_crc32": "23f15f29"
+    },
+    "Effect_0b607a9e": {
+      "name": "EffectPoint_RightHandIK",
+      "path": "Root/Bone_Root/EffectPoint_RightHandIK",
+      "binding_path_crc32": "0b607a9e"
+    }
+  }
+}
