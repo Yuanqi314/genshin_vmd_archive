@@ -1,0 +1,24 @@
+{
+  "NPC_Others_Freminet_RainbowPrince_01": {
+    "Bone_C_7dd5bcce": {
+      "name": "Bone_Clavicle01_L",
+      "path": "Bone_Root/Bone_Clavicle01_L",
+      "binding_path_crc32": "7dd5bcce"
+    },
+    "Bone_C_87da81ad": {
+      "name": "Bone_Clavicle01_R",
+      "path": "Bone_Root/Bone_Clavicle01_R",
+      "binding_path_crc32": "87da81ad"
+    },
+    "Bone_C_18da88ef": {
+      "name": "Bone_Clockwork01_M",
+      "path": "Bone_Root/Bone_Clockwork01_M",
+      "binding_path_crc32": "18da88ef"
+    },
+    "Bone_S_fe89ddfc": {
+      "name": "Bone_ShieldA01_L",
+      "path": "Bone_Root/Bone_Clavicle01_L/Bone_Wing01_L/Bone_ShieldA01_L",
+      "binding_path_crc32": "fe89ddfc"
+    }
+  }
+}

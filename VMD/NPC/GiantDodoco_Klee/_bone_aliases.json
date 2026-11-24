@@ -1,0 +1,54 @@
+{
+  "NPC_Others_GiantDodoco_Klee": {
+    "Bone_K_9eeb7122": {
+      "name": "Bone_KleeHair01_L",
+      "path": "Bone_Root/Bone_Body03_M/Bone_KleeHair01_L",
+      "binding_path_crc32": "9eeb7122"
+    },
+    "Bone_K_cc939254": {
+      "name": "Bone_KleeHair02_L",
+      "path": "Bone_Root/Bone_Body03_M/Bone_KleeHair01_L/Bone_KleeHair02_L",
+      "binding_path_crc32": "cc939254"
+    },
+    "Bone_K_90733ab9": {
+      "name": "Bone_KleeTie01_R",
+      "path": "Bone_Root/Bone_Root_KleeTie01_R/Bone_KleeTie01_R",
+      "binding_path_crc32": "90733ab9"
+    },
+    "Bone_K_e72c68bc": {
+      "name": "Bone_KleeTie02_R",
+      "path": "Bone_Root/Bone_Root_KleeTie01_R/Bone_KleeTie01_R/Bone_KleeTie02_R",
+      "binding_path_crc32": "e72c68bc"
+    },
+    "Bone_K_5f900fd9": {
+      "name": "Bone_KleeTie12_R",
+      "path": "Bone_Root/Bone_Root_KleeTie01_R/Bone_KleeTie01_R/Bone_KleeTie12_R",
+      "binding_path_crc32": "5f900fd9"
+    },
+    "Bone_K_c075cf51": {
+      "name": "Bone_KleeTie21_L",
+      "path": "Bone_Root/Bone_Root_KleeTie01_R/Bone_KleeTie21_L",
+      "binding_path_crc32": "c075cf51"
+    },
+    "Bone_K_6460d2b8": {
+      "name": "Bone_KleeTie22_L",
+      "path": "Bone_Root/Bone_Root_KleeTie01_R/Bone_KleeTie21_L/Bone_KleeTie22_L",
+      "binding_path_crc32": "6460d2b8"
+    },
+    "Bone_K_78c9a834": {
+      "name": "Bone_KleeTie31_L",
+      "path": "Bone_Root/Bone_Root_KleeTie01_R/Bone_KleeTie31_L",
+      "binding_path_crc32": "78c9a834"
+    },
+    "Bone_K_43063643": {
+      "name": "Bone_KleeTie32_L",
+      "path": "Bone_Root/Bone_Root_KleeTie01_R/Bone_KleeTie31_L/Bone_KleeTie32_L",
+      "binding_path_crc32": "43063643"
+    },
+    "Bone_R_2ba9942d": {
+      "name": "Bone_Root_KleeTie01_R",
+      "path": "Bone_Root/Bone_Root_KleeTie01_R",
+      "binding_path_crc32": "2ba9942d"
+    }
+  }
+}

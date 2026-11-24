@@ -1,0 +1,19 @@
+{
+  "NPC_Others_Kinich_Ajaw": {
+    "Bone_B_88259e26": {
+      "name": "Bone_Blusher01_L",
+      "path": "Bone_Root/Bone_Blusher01_L",
+      "binding_path_crc32": "88259e26"
+    },
+    "Bone_E_af3be6f0": {
+      "name": "Bone_ExpressionA01_R",
+      "path": "Bone_Root/Bone_ExpressionA01_R",
+      "binding_path_crc32": "af3be6f0"
+    },
+    "Bone_E_ad7d58a9": {
+      "name": "Bone_ExpressionA02_R",
+      "path": "Bone_Root/Bone_ExpressionA02_R",
+      "binding_path_crc32": "ad7d58a9"
+    }
+  }
+}

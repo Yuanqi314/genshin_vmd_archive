@@ -1,0 +1,179 @@
+{
+  "NPC_Avatar_Male_Sword_IlCapitano": {
+    "+Overc_8df700e6": {
+      "name": "+OvercoatB CB A01",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/+OvercoatB CB A01",
+      "binding_path_crc32": "8df700e6"
+    },
+    "+Overc_4c537557": {
+      "name": "+OvercoatB CB A02",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/+OvercoatB CB A01/+OvercoatB CB A02",
+      "binding_path_crc32": "4c537557"
+    },
+    "+Overc_3be65956": {
+      "name": "+OvercoatB CB A03",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/+OvercoatB CB A01/+OvercoatB CB A02/+OvercoatB CB A03",
+      "binding_path_crc32": "3be65956"
+    },
+    "+Overc_bb8a8008": {
+      "name": "+OvercoatB CB A04",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/+OvercoatB CB A01/+OvercoatB CB A02/+OvercoatB CB A03/+OvercoatB CB A04",
+      "binding_path_crc32": "bb8a8008"
+    },
+    "+Overc_00479327": {
+      "name": "+OvercoatB CB A05",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/+OvercoatB CB A01/+OvercoatB CB A02/+OvercoatB CB A03/+OvercoatB CB A04/+OvercoatB CB A05",
+      "binding_path_crc32": "00479327"
+    },
+    "+Overc_feeb9c3f": {
+      "name": "+OvercoatB L A01",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/+OvercoatU L A01/+OvercoatB L A01",
+      "binding_path_crc32": "feeb9c3f"
+    },
+    "+Overc_ac034acb": {
+      "name": "+OvercoatB L A02",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/+OvercoatU L A01/+OvercoatB L A01/+OvercoatB L A02",
+      "binding_path_crc32": "ac034acb"
+    },
+    "+Overc_b4546292": {
+      "name": "+OvercoatB L A03",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/+OvercoatU L A01/+OvercoatB L A01/+OvercoatB L A02/+OvercoatB L A03",
+      "binding_path_crc32": "b4546292"
+    },
+    "+Overc_25cea225": {
+      "name": "+OvercoatB L A04",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/+OvercoatU L A01/+OvercoatB L A01/+OvercoatB L A02/+OvercoatB L A03/+OvercoatB L A04",
+      "binding_path_crc32": "25cea225"
+    },
+    "+Overc_9682b583": {
+      "name": "+OvercoatB L A05",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/+OvercoatU L A01/+OvercoatB L A01/+OvercoatB L A02/+OvercoatB L A03/+OvercoatB L A04/+OvercoatB L A05",
+      "binding_path_crc32": "9682b583"
+    },
+    "+Overc_437e831d": {
+      "name": "+OvercoatB R A01",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/+OvercoatU R A01/+OvercoatB R A01",
+      "binding_path_crc32": "437e831d"
+    },
+    "+Overc_47bc92c3": {
+      "name": "+OvercoatB R A02",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/+OvercoatU R A01/+OvercoatB R A01/+OvercoatB R A02",
+      "binding_path_crc32": "47bc92c3"
+    },
+    "+Overc_fc1d77e1": {
+      "name": "+OvercoatB R A03",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/+OvercoatU R A01/+OvercoatB R A01/+OvercoatB R A02/+OvercoatB R A03",
+      "binding_path_crc32": "fc1d77e1"
+    },
+    "+Overc_9f27786c": {
+      "name": "+OvercoatB R A04",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/+OvercoatU R A01/+OvercoatB R A01/+OvercoatB R A02/+OvercoatB R A03/+OvercoatB R A04",
+      "binding_path_crc32": "9f27786c"
+    },
+    "+Overc_95ec310f": {
+      "name": "+OvercoatB R A05",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/+OvercoatU R A01/+OvercoatB R A01/+OvercoatB R A02/+OvercoatB R A03/+OvercoatB R A04/+OvercoatB R A05",
+      "binding_path_crc32": "95ec310f"
+    },
+    "+Overc_0aa4b82c": {
+      "name": "+OvercoatF L A01",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/+OvercoatU L A01/+OvercoatF L A01",
+      "binding_path_crc32": "0aa4b82c"
+    },
+    "+Overc_314af087": {
+      "name": "+OvercoatF L A02",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/+OvercoatU L A01/+OvercoatF L A01/+OvercoatF L A02",
+      "binding_path_crc32": "314af087"
+    },
+    "+Overc_3fa196d8": {
+      "name": "+OvercoatF L A03",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/+OvercoatU L A01/+OvercoatF L A01/+OvercoatF L A02/+OvercoatF L A03",
+      "binding_path_crc32": "3fa196d8"
+    },
+    "+Overc_5e566e62": {
+      "name": "+OvercoatF L A04",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/+OvercoatU L A01/+OvercoatF L A01/+OvercoatF L A02/+OvercoatF L A03/+OvercoatF L A04",
+      "binding_path_crc32": "5e566e62"
+    },
+    "+Overc_aa836b32": {
+      "name": "+OvercoatF L A05",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/+OvercoatU L A01/+OvercoatF L A01/+OvercoatF L A02/+OvercoatF L A03/+OvercoatF L A04/+OvercoatF L A05",
+      "binding_path_crc32": "aa836b32"
+    },
+    "+Overc_b731a70e": {
+      "name": "+OvercoatF R A01",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/+OvercoatU R A01/+OvercoatF R A01",
+      "binding_path_crc32": "b731a70e"
+    },
+    "+Overc_daf5288f": {
+      "name": "+OvercoatF R A02",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/+OvercoatU R A01/+OvercoatF R A01/+OvercoatF R A02",
+      "binding_path_crc32": "daf5288f"
+    },
+    "+Overc_77e883ab": {
+      "name": "+OvercoatF R A03",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/+OvercoatU R A01/+OvercoatF R A01/+OvercoatF R A02/+OvercoatF R A03",
+      "binding_path_crc32": "77e883ab"
+    },
+    "+Overc_e4bfb42b": {
+      "name": "+OvercoatF R A04",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/+OvercoatU R A01/+OvercoatF R A01/+OvercoatF R A02/+OvercoatF R A03/+OvercoatF R A04",
+      "binding_path_crc32": "e4bfb42b"
+    },
+    "+Overc_a9edefbe": {
+      "name": "+OvercoatF R A05",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/+OvercoatU R A01/+OvercoatF R A01/+OvercoatF R A02/+OvercoatF R A03/+OvercoatF R A04/+OvercoatF R A05",
+      "binding_path_crc32": "a9edefbe"
+    },
+    "+Overc_4957b027": {
+      "name": "+OvercoatU L A01",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/+OvercoatU L A01",
+      "binding_path_crc32": "4957b027"
+    },
+    "+Overc_968799c4": {
+      "name": "+OvercoatU R A01",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/+OvercoatU R A01",
+      "binding_path_crc32": "968799c4"
+    },
+    "+Pelvi_b6004842": {
+      "name": "+PelvisTwist CF A01",
+      "path": "Bip001/+PelvisTwist CF A01",
+      "binding_path_crc32": "b6004842"
+    },
+    "+Upper_ed4dceb8": {
+      "name": "+UpperArmTwist L A01",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 L Clavicle/Bip001 L UpperArm/+UpperArmTwist L A01",
+      "binding_path_crc32": "ed4dceb8"
+    },
+    "+Upper_74449f02": {
+      "name": "+UpperArmTwist L A02",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 L Clavicle/Bip001 L UpperArm/+UpperArmTwist L A02",
+      "binding_path_crc32": "74449f02"
+    },
+    "+Upper_21e601ae": {
+      "name": "+UpperArmTwist R A01",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 R Clavicle/Bip001 R UpperArm/+UpperArmTwist R A01",
+      "binding_path_crc32": "21e601ae"
+    },
+    "+Upper_b8ef5014": {
+      "name": "+UpperArmTwist R A02",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 R Clavicle/Bip001 R UpperArm/+UpperArmTwist R A02",
+      "binding_path_crc32": "b8ef5014"
+    },
+    "+Tooth_edca63b2": {
+      "name": "+ToothBone U A01",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 Neck/Bip001 Head/+ToothBone U A01",
+      "binding_path_crc32": "edca63b2"
+    },
+    "+Tooth_b04add80": {
+      "name": "+ToothBone D A01",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 Neck/Bip001 Head/+ToothBone D A01",
+      "binding_path_crc32": "b04add80"
+    },
+    "+Flycl_a1a4c658": {
+      "name": "+FlycloakRootB CB A01",
+      "path": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/+FlycloakRootB CB A01",
+      "binding_path_crc32": "a1a4c658"
+    }
+  }
+}

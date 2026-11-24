@@ -1,0 +1,134 @@
+{
+  "NPC_Others_Kaveh_Mehrak": {
+    "Bone_S_6d887ea1": {
+      "name": "Bone_Suitcase01_L",
+      "path": "Bone_Root/Bone_Suitcase01_L",
+      "binding_path_crc32": "6d887ea1"
+    },
+    "Bone_S_1a8f4e37": {
+      "name": "Bone_Suitcase01_M",
+      "path": "Bone_Root/Bone_Suitcase01_M",
+      "binding_path_crc32": "1a8f4e37"
+    },
+    "Bone_S_978743c2": {
+      "name": "Bone_Suitcase01_R",
+      "path": "Bone_Root/Bone_Suitcase01_R",
+      "binding_path_crc32": "978743c2"
+    },
+    "Bone_S_6fcec0f8": {
+      "name": "Bone_Suitcase02_L",
+      "path": "Bone_Root/Bone_Suitcase02_L",
+      "binding_path_crc32": "6fcec0f8"
+    },
+    "Bone_S_18c9f06e": {
+      "name": "Bone_Suitcase02_M",
+      "path": "Bone_Root/Bone_Suitcase02_M",
+      "binding_path_crc32": "18c9f06e"
+    },
+    "Bone_S_95c1fd9b": {
+      "name": "Bone_Suitcase02_R",
+      "path": "Bone_Root/Bone_Suitcase02_R",
+      "binding_path_crc32": "95c1fd9b"
+    },
+    "Bone_S_6e0caacf": {
+      "name": "Bone_Suitcase03_L",
+      "path": "Bone_Root/Bone_Suitcase03_L",
+      "binding_path_crc32": "6e0caacf"
+    },
+    "Bone_S_940397ac": {
+      "name": "Bone_Suitcase03_R",
+      "path": "Bone_Root/Bone_Suitcase03_R",
+      "binding_path_crc32": "940397ac"
+    },
+    "Bone_S_6b43bc4a": {
+      "name": "Bone_Suitcase04_L",
+      "path": "Bone_Root/Bone_Suitcase04_L",
+      "binding_path_crc32": "6b43bc4a"
+    },
+    "Bone_S_914c8129": {
+      "name": "Bone_Suitcase04_R",
+      "path": "Bone_Root/Bone_Suitcase04_R",
+      "binding_path_crc32": "914c8129"
+    },
+    "Bone_S_6a81d67d": {
+      "name": "Bone_Suitcase05_L",
+      "path": "Bone_Root/Bone_Suitcase05_L",
+      "binding_path_crc32": "6a81d67d"
+    },
+    "Bone_S_908eeb1e": {
+      "name": "Bone_Suitcase05_R",
+      "path": "Bone_Root/Bone_Suitcase05_R",
+      "binding_path_crc32": "908eeb1e"
+    },
+    "Bone_S_68c76824": {
+      "name": "Bone_Suitcase06_L",
+      "path": "Bone_Root/Bone_Suitcase06_L",
+      "binding_path_crc32": "68c76824"
+    },
+    "Bone_S_92c85547": {
+      "name": "Bone_Suitcase06_R",
+      "path": "Bone_Root/Bone_Suitcase06_R",
+      "binding_path_crc32": "92c85547"
+    },
+    "Bone_S_69050213": {
+      "name": "Bone_Suitcase07_L",
+      "path": "Bone_Root/Bone_Suitcase07_L",
+      "binding_path_crc32": "69050213"
+    },
+    "Bone_S_930a3f70": {
+      "name": "Bone_Suitcase07_R",
+      "path": "Bone_Root/Bone_Suitcase07_R",
+      "binding_path_crc32": "930a3f70"
+    },
+    "Bone_S_6259452e": {
+      "name": "Bone_Suitcase08_L",
+      "path": "Bone_Root/Bone_Suitcase08_L",
+      "binding_path_crc32": "6259452e"
+    },
+    "Bone_S_9856784d": {
+      "name": "Bone_Suitcase08_R",
+      "path": "Bone_Root/Bone_Suitcase08_R",
+      "binding_path_crc32": "9856784d"
+    },
+    "Bone_S_639b2f19": {
+      "name": "Bone_Suitcase09_L",
+      "path": "Bone_Root/Bone_Suitcase09_L",
+      "binding_path_crc32": "639b2f19"
+    },
+    "Bone_S_9994127a": {
+      "name": "Bone_Suitcase09_R",
+      "path": "Bone_Root/Bone_Suitcase09_R",
+      "binding_path_crc32": "9994127a"
+    },
+    "Bone_S_d4f673f3": {
+      "name": "Bone_Suitcase10_L",
+      "path": "Bone_Root/Bone_Suitcase10_L",
+      "binding_path_crc32": "d4f673f3"
+    },
+    "Bone_S_2ef94e90": {
+      "name": "Bone_Suitcase10_R",
+      "path": "Bone_Root/Bone_Suitcase10_R",
+      "binding_path_crc32": "2ef94e90"
+    },
+    "Bone_S_d53419c4": {
+      "name": "Bone_Suitcase11_L",
+      "path": "Bone_Root/Bone_Suitcase11_L",
+      "binding_path_crc32": "d53419c4"
+    },
+    "Bone_S_2f3b24a7": {
+      "name": "Bone_Suitcase11_R",
+      "path": "Bone_Root/Bone_Suitcase11_R",
+      "binding_path_crc32": "2f3b24a7"
+    },
+    "Bone_S_d772a79d": {
+      "name": "Bone_Suitcase12_L",
+      "path": "Bone_Root/Bone_Suitcase12_L",
+      "binding_path_crc32": "d772a79d"
+    },
+    "Bone_S_2d7d9afe": {
+      "name": "Bone_Suitcase12_R",
+      "path": "Bone_Root/Bone_Suitcase12_R",
+      "binding_path_crc32": "2d7d9afe"
+    }
+  }
+}
