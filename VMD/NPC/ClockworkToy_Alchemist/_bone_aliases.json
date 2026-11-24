@@ -1,0 +1,9 @@
+{
+  "NPC_Others_ClockworkToy_Alchemist": {
+    "Bone_C_9e07e056": {
+      "name": "Bone_ClockworkA01_M",
+      "path": "Bone_Root/Bone_BaseA01_M/Bone_ClockworkA01_M",
+      "binding_path_crc32": "9e07e056"
+    }
+  }
+}
